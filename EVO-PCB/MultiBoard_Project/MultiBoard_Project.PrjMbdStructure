@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=EVO.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\EVO-PCB.PrjPcb
+Record=SubProject|SourceDocument=EVO.MbsDoc|ProjectPath=..\EVO-PCB.PrjPcb
+Record=DiagramHierarchy|SourceDocument=EVO.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\EVO-PCB-R.PrjPcb
+Record=SubProject|SourceDocument=EVO.MbsDoc|ProjectPath=..\EVO-PCB-R.PrjPcb

@@ -1,0 +1,21 @@
+Added Component: Designator=RF2(0734151001)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM5552-ND"; VariantName = "[No Variations]"
+Added Component: Designator=RF?(0734151001)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM5552-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=RF2-2
+Added Pin To Net: NetName=GND Pin=RF2-3
+Added Pin To Net: NetName=GND Pin=RF2-4
+Added Pin To Net: NetName=GND Pin=RF?-2
+Added Pin To Net: NetName=GND Pin=RF?-3
+Added Pin To Net: NetName=GND Pin=RF?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetIC?_K1 Pin=IC?-K1
+Added Pin To Net: NetName=NetIC?_K1 Pin=RF?-1
+Added Net: Name=NetIC?_K1
+Added Pin To Net: NetName=NetIC?_R9 Pin=IC?-R9
+Added Pin To Net: NetName=NetIC?_R9 Pin=RF2-1
+Added Net: Name=NetIC?_R9
+Added Member To Class: ClassName=temp Member=Component RF2 MMCX Connector Receptacle, Female Socket 50Ohm Through Hole, Right Angle Solder
+Added Member To Class: ClassName=temp Member=Component RF? MMCX Connector Receptacle, Female Socket 50Ohm Through Hole, Right Angle Solder

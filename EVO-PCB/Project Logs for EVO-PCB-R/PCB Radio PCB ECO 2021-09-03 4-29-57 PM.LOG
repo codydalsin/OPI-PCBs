@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetIC?_K1 Pin=RF?-1
+Removed Pin From Net: NetName=GND Pin=RF?-2
+Removed Pin From Net: NetName=GND Pin=RF?-3
+Removed Pin From Net: NetName=GND Pin=RF?-4
+Removed Member From Class: ClassName=temp Member=RF?
+Added Component: Designator=RF1(0734151001)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM5552-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC?_K1 Pin=RF1-1
+Added Pin To Net: NetName=GND Pin=RF1-2
+Added Pin To Net: NetName=GND Pin=RF1-3
+Added Pin To Net: NetName=GND Pin=RF1-4
+Added Pin To Net: NetName=GND Pin=RF1-5
+Added Pin To Net: NetName=GND Pin=RF2-5
+Added Member To Class: ClassName=temp Member=Component RF1 MMCX Connector Receptacle, Female Socket 50Ohm Through Hole, Right Angle Solder
