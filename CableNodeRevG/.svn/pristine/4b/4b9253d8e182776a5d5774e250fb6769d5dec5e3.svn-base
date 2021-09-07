@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\lloydj\Documents\LloydJ\CableNodeRevE\CableNodeRevE.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=cablenodereve-roundholes.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=cablenodereve-slotholes.txt|LayerPairs=gtl,gbl

@@ -1,0 +1,144 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+U9         TS5A3160              2300mil       4275mil       2300mil       4275mil   2262.598mil   4249.409mil  B          0.00 NLAS4157D      
+TP18       TESTPOINT              300mil       2750mil    348.691mil       2750mil        300mil       2750mil  B        180.00 Testpoint      
+TP17       TESTPOINT             1650mil       2950mil       1750mil       2950mil       1650mil       2950mil  B        180.00 Testpoint      
+TP16       TESTPOINT             1500mil       3650mil       1535mil       3640mil       1500mil       3650mil  B        180.00 Testpoint      
+TP15       TESTPOINT             2100mil       2250mil       2100mil       2250mil       2100mil       2250mil  B        180.00 Testpoint      
+TP14       TESTPOINT             2350mil       2950mil       2375mil       2925mil       2350mil       2950mil  B        180.00 Testpoint      
+TP13       TESTPOINT             1600mil       3650mil       1600mil       3650mil       1600mil       3650mil  B        180.00 Testpoint      
+TP12       TESTPOINT             2750mil       4150mil       2725mil       4125mil       2750mil       4150mil  B        180.00 Testpoint      
+R62        RC0603            2418.157mil       4125mil   2418.157mil       4125mil   2418.157mil   4161.417mil  B        270.00 1K             
+R60        RC0603                2120mil       4317mil       2120mil       4317mil   2083.583mil       4317mil  B          0.00 510R           
+RAD1       RF200                 1959mil     4040.5mil       1345mil       4475mil       1345mil       4475mil  T          0.00 RF 200 Snappy Transceiver
+C11        RC0603            1457.585mil       1975mil   1457.585mil       1975mil   1494.003mil       1975mil  T        180.00 0.1uF          
+R32        RC1206                 770mil   3586.639mil        770mil   3586.639mil    829.055mil   3586.639mil  B        180.00 22R            
+R47        RC0603            2417.933mil   3968.307mil   2417.933mil   3968.307mil   2417.933mil    3931.89mil  B         90.00 100R           
+R46        RC0603                1650mil       1975mil       1650mil       1975mil   1686.417mil       1975mil  T        180.00 0R             
+Q6         SOT23                 2275mil    3931.89mil       2275mil    3931.89mil   2231.693mil   3894.488mil  B         90.00 MMBFJ270       
+D16        SOT-323               1675mil       1875mil       1675mil       1875mil   1709.449mil   1849.409mil  T        180.00 SDMG0340LC     
+D15        SOD323F            286.879mil   3417.662mil    286.879mil   3417.662mil    327.234mil   3417.662mil  T        180.00 DDZ5V6ASF-7    
+R43        RC1206            2038.583mil       3250mil   2038.583mil       3250mil   1979.528mil       3250mil  T        360.00 12R            
+R42        RC1206                2575mil   3015.245mil       2575mil   3015.245mil   2634.055mil   3015.245mil  T        180.00 12R            
+SP1        SOLAR_PANEL_FLEX     137.01mil   1857.347mil     137.01mil      6.954mil     137.01mil    203.804mil  T         90.00 SOLAR_PANEL    
+R38        RC0603            2135.239mil       3925mil   2135.239mil       3925mil   2135.239mil   3961.417mil  B        270.00 432K           
+R37        RC0603                2420mil       3690mil       2420mil       3690mil   2383.583mil       3690mil  B        360.00 715K           
+R36        RC0603                2050mil       3925mil       2050mil       3925mil       2050mil   3961.417mil  B        270.00 1M0            
+R35        RC0603                2420mil       3606mil       2420mil       3606mil   2383.583mil       3606mil  B        360.00 1M0            
+R34        RC0603            1185.134mil       3685mil   1185.133mil       3685mil   1148.716mil       3685mil  B          0.00 10K            
+R33        RC0603            1185.133mil       3606mil   1185.133mil       3606mil   1221.551mil       3606mil  B        180.00 1K             
+Q5         SOT23                 1125mil       3825mil       1125mil       3825mil   1162.402mil   3781.693mil  B        180.00 SI2302CDS      
+LED3       LED-OVS5MXBCR4     835.514mil   3861.639mil    835.514mil   3861.639mil    759.728mil   3861.639mil  T         90.00 GREEN          
+R31        RC0603            1148.716mil       3606mil   1148.716mil       3606mil   1112.299mil       3606mil  T        360.00 10K            
+R30        RC0603            1148.716mil       3685mil   1148.716mil       3685mil   1185.133mil       3685mil  T        180.00 1K             
+R29        RC1206                 750mil   3586.639mil        750mil   3586.639mil    809.055mil   3586.639mil  T        180.00 12R            
+Q4         SOT23                 1125mil       3800mil       1125mil       3800mil   1087.598mil   3756.693mil  T        360.00 SI2302CDS      
+LED4       LED-OVS5MXBCR4     835.914mil   3861.639mil    835.914mil   3861.639mil    760.128mil   3861.639mil  B        270.00 RED            
+CANADAFLAG CanadaFlag500x250  -1619.986mil  -1267.361mil        675mil       1345mil  -1619.986mil  -1267.361mil  B        180.00 Canada Flag    
+CANADAFLAG CanadaFlag500x250  -1619.986mil  -1267.361mil        765mil        525mil  -1619.986mil  -1267.361mil  T        360.00 Canada Flag    
+C8         RC1206                2725mil       4300mil       2725mil       4300mil       2725mil   4359.055mil  T        270.00 47uF           
+P5         PC-1757255        1582.104mil   1411.739mil   1382.104mil   1411.739mil   1382.104mil   1411.739mil  B        360.00 1759020        
+D1         POWERDI-123        544.538mil    3698.78mil    544.538mil       3685mil    544.538mil   3748.976mil  B        270.00 DFLS1200-7     
+U6         SOIC127P580X153-8N       2050mil   2526.436mil       2050mil   2526.436mil       1975mil    2428.01mil  T         90.00 DS2482S-100+   
+U5         TS5A3160              2125mil   3433.457mil       2125mil   3433.457mil   2150.591mil   3396.055mil  B         90.00 FDG6342L       
+R18        RES2512           1857.585mil       3450mil   1857.585mil       3450mil   1971.759mil       3450mil  B        180.00 24R            
+R17        RC3225X07N        2038.583mil       2900mil   2038.583mil       2900mil   1979.528mil       2900mil  T        360.00 51R1           
+R16        RC0603                2075mil   3661.378mil       2075mil   3661.378mil   2111.417mil   3661.378mil  B        180.00 10K            
+R15        RC0603                2075mil   3582.378mil       2075mil   3582.378mil   2038.583mil   3582.378mil  B        360.00 27R            
+R14        RC0603                2120mil       4235mil       2120mil       4235mil   2083.583mil       4235mil  B          0.00 10K            
+Q1         SOT23(DGS)        2019.528mil   2756.693mil   1979.528mil   2756.693mil   2059.528mil   2716.693mil  T         90.00 SI2301BDS      
+P3         HDR1X2            1503.583mil   3198.468mil   1453.583mil   3198.468mil   1453.583mil   3198.468mil  B          0.00 Header 2       
+P2         HDR1X4                1450mil   3471.662mil       1300mil   3471.662mil       1300mil   3471.662mil  B        360.00 Header 4       
+FD3        FIDUCIAL_ROUND_SMALL    426.194mil        375mil    426.194mil        375mil    426.194mil        375mil  T          0.00 Fiducial - Round
+FD2        FIDUCIAL_ROUND_SMALL    426.194mil   3471.662mil    426.194mil   3471.662mil    426.194mil   3471.662mil  T          0.00 Fiducial - Round
+FD1        FIDUCIAL_ROUND_SMALL   3241.194mil   3471.662mil   3241.194mil   3471.662mil   3241.194mil   3471.662mil  T          0.00 Fiducial - Round
+F1         MINISMDC260F          2850mil   2982.245mil       2850mil   2982.245mil   2755.905mil   2982.245mil  T          0.00 MINISMDC260F-2 
+D2         RC0603            1618.521mil   1561.662mil   1618.521mil   1561.662mil   1654.939mil   1561.662mil  B        180.00 PGB1010603NR   
+C1         RC0805                2875mil   3401.501mil       2875mil   3363.115mil       2875mil   3363.115mil  T         90.00 22pF           
+C5         RC1206                2970mil       3390mil       2970mil       3390mil       2970mil   3330.945mil  T         90.00 47uF           
+C2         RC0805             661.113mil   3330.015mil    622.727mil   3330.015mil    622.727mil   3330.015mil  T        360.00 4.7uF          
+C3         RC0805            1119.677mil   3319.629mil   1119.677mil   3358.015mil   1119.677mil   3358.015mil  T        270.00 4.7uF          
+C4         RC0805            2454.547mil   3210.015mil   2492.933mil   3210.015mil   2492.933mil   3210.015mil  T        180.00 4.7uF          
+C6         RC0805             819.863mil   3025.015mil    781.477mil   3025.015mil    781.477mil   3025.015mil  T        360.00 10nF           
+C9         RC0603            2411.477mil       4400mil   2411.477mil       4400mil    2375.06mil       4400mil  B          0.00 1uF            
+R1         RC0805                2775mil   3401.501mil       2775mil   3363.115mil       2775mil   3363.115mil  T         90.00 3.24M          
+R2         RC0603             657.264mil   3146.639mil    657.264mil   3146.639mil    620.847mil   3146.639mil  T        360.00 3.83M          
+R3         RC0805                2775mil   3221.425mil       2775mil   3259.811mil       2775mil   3259.811mil  T        270.00 1.02M          
+R4         RC0603                 600mil       3025mil        600mil       3025mil    563.583mil       3025mil  T        360.00 7.5M           
+R5         RC0603                1490mil       2995mil       1490mil       2995mil   1453.583mil       2995mil  T        360.00 2M0            
+R6         RC0603                1300mil       3080mil       1300mil       3080mil   1263.583mil       3080mil  T        360.00 3.83M          
+R7         RC0603                1490mil       3080mil       1490mil       3080mil   1453.583mil       3080mil  T        360.00 4M22           
+R8         RC0603                1300mil   2832.394mil       1300mil   2832.394mil   1263.583mil   2832.394mil  T        360.00 4.75M          
+R10        RC0603                 600mil   2920.639mil        600mil   2920.639mil    563.583mil   2920.639mil  T        360.00 7.5M           
+R11        RC0603                 815mil   2921.662mil        815mil   2921.662mil    851.417mil   2921.662mil  T        180.00 4M99           
+R12        RC0603                1300mil   2996.606mil       1300mil   2996.606mil   1263.583mil   2996.606mil  T        360.00 5.36M          
+P4         EDGECONNECTORFINGERS   1607.585mil         60mil   1857.585mil         60mil   1857.585mil         60mil  B        180.00 CARDEDGE-06-12 
+U2         BQ25504           1088.677mil   3099.515mil   1088.677mil   3099.515mil   1029.622mil   3129.043mil  T          0.00 BQ25504RGT     
+U1         LTC3526           2591.477mil   3363.115mil   2591.477mil   3363.115mil   2552.107mil     3382.8mil  T        270.00 LTC3526LBEDC-2 
+L1         IND-WURTH         2411.353mil   3361.623mil   2411.477mil   3363.115mil   2411.229mil    3288.54mil  T         90.00 3.6µH          
+L2         IND-SRR0604        916.477mil   3320.015mil    916.477mil   3320.015mil    798.367mil   3320.015mil  T          0.00 22µH           
+R13        RESC1608X06N          1850mil   3416.374mil       1850mil   3416.374mil    1817.52mil   3416.374mil  T          0.00 1M0            
+R19        RC0603            2013.583mil   3089.673mil   2013.583mil   3089.673mil   1977.166mil   3089.673mil  T          0.00 100K           
+U3         TS5A3160              1850mil       3235mil       1850mil       3235mil   1824.409mil   3197.598mil  T         90.00 FDG6342L       
+C7         RC0603            2013.583mil    3158.57mil   2013.583mil    3158.57mil   1977.166mil    3158.57mil  T        360.00 10nF           
+R20        RC0603                1300mil   3162.093mil       1300mil   3162.093mil   1336.417mil   3162.093mil  T        180.00 10K            
+Q2         SOT23                 2735mil       3925mil       2735mil       3925mil   2697.598mil   3881.693mil  T        360.00 SI2302CDS      
+Q3         SOT23             2714.581mil       3925mil   2714.581mil       3925mil   2751.982mil   3881.693mil  B        180.00 SI2302CDS      
+R21        RC1206            3233.721mil       3600mil   3233.721mil       3600mil   3292.776mil       3600mil  T        180.00 22R            
+R22        RC1206            3233.721mil       3600mil   3233.721mil       3600mil   3292.776mil       3600mil  B        180.00 12R            
+R23        RC0603                2725mil       3764mil       2725mil       3764mil   2688.583mil       3764mil  T        360.00 10K            
+R24        RC0603                2725mil       3764mil       2725mil       3764mil   2761.417mil       3764mil  B        180.00 10K            
+R25        RC0603                2725mil   3683.509mil       2725mil   3683.509mil   2688.583mil   3683.509mil  T          0.00 1K             
+R26        RC0603                2725mil       3685mil       2725mil       3685mil   2688.583mil       3685mil  B          0.00 1K             
+LED2       LED-OVS5MXBCR4    3061.477mil   3865.015mil   3061.477mil   3865.015mil   3137.263mil   3865.015mil  B         90.00 GREEN          
+R27        RC0603                1470mil       3843mil       1470mil       3843mil   1433.583mil       3843mil  B        360.00 100R           
+R28        RC0603                1470mil       3764mil       1470mil       3764mil   1433.583mil       3764mil  B        360.00 100R           
+D3         SOT23              288.194mil   3573.662mil    288.194mil   3573.662mil    250.793mil   3530.355mil  T        360.00 BAV99          
+D4         POWERDI-123        326.194mil   2977.882mil    326.194mil   2991.662mil    326.194mil   2927.686mil  T         90.00 DFLS1200-7     
+R39        RC0805            1457.585mil   1636.614mil   1457.585mil       1675mil   1457.585mil       1675mil  T        270.00 330R           
+R40        RC0603            2411.477mil       4317mil   2411.477mil       4317mil    2375.06mil       4317mil  T          0.00 100R           
+R41        RC0603                2410mil    3931.89mil       2410mil    3931.89mil   2373.583mil    3931.89mil  T          0.00 100R           
+R44        RC0603            2231.693mil       2320mil   2231.693mil       2320mil   2231.693mil   2356.417mil  T        270.00 10K            
+C10        RC0603                1875mil       2525mil       1875mil       2525mil       1875mil   2561.417mil  T        270.00 0.1uF          
+D5         RC0603             391.194mil   3216.662mil    391.194mil   3216.662mil    391.194mil   3180.245mil  T         90.00 PGB1010603NR   
+F2         MINISMD050         551.477mil       3680mil    551.477mil       3600mil    551.477mil       3600mil  T         90.00 MINISMDC050F-2 
+P1         HDR1X2            1135.133mil        850mil   1185.133mil        850mil   1185.133mil        850mil  B        180.00 Header 1x2 RA  
+D6         SOD-523            481.194mil   3226.662mil    481.194mil   3226.662mil    481.194mil   3251.268mil  T        270.00 ESD5B5.0ST1G   
+F3         MINISMD050            1190mil       2340mil       1270mil       2340mil       1270mil       2340mil  T        180.00 MINISMDC050F-2 
+D8         SOD-523            1606.71mil   1651.662mil    1606.71mil   1651.662mil   1631.317mil   1651.662mil  B        180.00 ESD5B5.0ST1G   
+U8         TS5A3160              1425mil       1850mil       1425mil       1850mil   1399.409mil   1812.598mil  T         90.00 NLAS4157D      
+SW1        MDSM-4             585.514mil   3245.639mil    585.514mil   3245.639mil     224.49mil   3245.639mil  B        360.00 MDSM-4R Reed Switch
+LED1       LED-OVS5MXBCR4    3061.477mil   3865.015mil   3061.477mil   3865.015mil   3137.263mil   3865.015mil  T        270.00 RED            
+D9         SOD-523               1281mil       3178mil       1281mil       3178mil   1256.394mil       3178mil  B          0.00 ESD5B5.0ST1G   
+D10        RC0603                1297mil       3102mil       1297mil       3102mil   1333.417mil       3102mil  B        180.00 PGB1010603NR   
+D11        SOT23             1553.998mil       3330mil   1553.998mil       3330mil   1591.399mil   3286.693mil  B        180.00 BAV99          
+D12        SOT23             2212.992mil       4125mil   2212.992mil       4125mil   2169.685mil   4162.402mil  T        270.00 BAV99          
+D13        SOT23             1401.194mil   3330.015mil   1401.194mil   3330.015mil   1438.596mil   3286.708mil  B        180.00 BAV99          
+J1         BATTERYCONNECTOR   3229.754mil    3200.71mil   3191.194mil   3141.662mil   3191.194mil   3141.662mil  B        270.00 CONN           
+R9         RC0603                1300mil   2914.738mil       1300mil   2914.738mil   1263.583mil   2914.738mil  T        360.00 3.83M          
+D14        SOT23              2381.74mil       3810mil    2381.74mil       3810mil   2344.338mil   3766.693mil  T        360.00 BAV99          
+R45        RES2512               1130mil       2700mil       1130mil       2700mil   1244.173mil       2700mil  T        180.00 12R            
+TP7        TESTPOINT             1600mil       4000mil       1625mil       4000mil       1600mil       4000mil  B        180.00 Testpoint      
+TP6        TESTPOINT             2350mil       2700mil    2430.84mil       2675mil       2350mil       2700mil  B        180.00 Testpoint      
+TP5        TESTPOINT             1550mil       2100mil       1550mil       2100mil       1550mil       2100mil  B        180.00 Footprint      
+TP4        TESTPOINT             3300mil       3800mil       3300mil   3774.539mil       3300mil       3800mil  B        180.00 Testpoint      
+TP3        TESTPOINT             2850mil       2950mil       2850mil   3005.098mil       2850mil       2950mil  B        180.00 Testpoint      
+TP2        TESTPOINT             1200mil       3300mil   1201.194mil       3303mil       1200mil       3300mil  B        180.00 Testpoint      
+TP1        TESTPOINT              550mil       3450mil        550mil       3450mil        550mil       3450mil  B        180.00 Testpoint      
+TP11       TESTPOINT             2750mil       3600mil       2750mil   3582.378mil       2750mil       3600mil  B        180.00 Testpoint      
+TP8        TESTPOINT             1600mil       4400mil   1601.379mil       4396mil       1600mil       4400mil  B        180.00 Testpoint      
+TP9        TESTPOINT             1600mil       4200mil   1601.969mil       4275mil       1600mil       4200mil  B        180.00 Testpoint      
+TP10       TESTPOINT             1850mil       3700mil       1900mil   3748.976mil       1850mil       3700mil  B        180.00 Testpoint      
+BATT1      Battery_26650     1700.257mil   2530.866mil   2985.691mil       2530mil   2985.691mil       2530mil  B        180.00 26650          
+R50        RC0603                1470mil       4317mil       1470mil       4317mil   1433.583mil       4317mil  B          0.00 10K            
+R51        RC0603                1470mil       4160mil       1470mil       4160mil   1433.583mil       4160mil  B          0.00 10K            
+R52        RC0603                1470mil       4080mil       1470mil       4080mil   1433.583mil       4080mil  B        360.00 10K            
+R53        RC0603                1470mil       3920mil       1470mil       3920mil   1433.583mil       3920mil  B          0.00 10K            
+TP19       TESTPOINT             2850mil       4200mil       2850mil       4200mil       2850mil       4200mil  T         90.00 Testpoint      
+TP20       TESTPOINT             1850mil       4350mil       1850mil       4375mil       1850mil       4350mil  B        270.00 Testpoint      
+R54        RC0603                2015mil       3010mil       2015mil       3010mil   2051.417mil       3010mil  T        180.00 2K0            
+TP21       TESTPOINT             1150mil       4350mil       1154mil       4385mil       1150mil       4350mil  T         90.00 Testpoint      
+TP22       TESTPOINT             1150mil       4250mil       1145mil   4293.378mil       1150mil       4250mil  T         90.00 Testpoint      
+TP23       TESTPOINT             1150mil       4150mil       1145mil       4195mil       1150mil       4150mil  T         90.00 Testpoint      
+TP24       TESTPOINT             1150mil       4050mil       1150mil       4075mil       1150mil       4050mil  T         90.00 Testpoint      
+

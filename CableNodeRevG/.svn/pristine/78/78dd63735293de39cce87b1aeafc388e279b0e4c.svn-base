@@ -1,0 +1,73 @@
+Customer name:	OPI Systems
+Contact:	John Bobbett
+Address:	1216 - 36 Avenue N.E.
+		Calgary, Alberta
+		Canada T2E 6M8
+Email:		johnb@opisystems.com
+
+PCB Number	CableNodeRevF
+
+# of Files:	30 with README
+
+Data Format of the Gerber Files is as follows
+
+	Data Code:		ASCII
+	Data Format:		2.3
+	Mode:			ABSOLUTE
+	Units:			INCHES
+	Zero Suppression:	LEADING
+
+Description of Files:
+
+	CableNodeRevF.APR			-->	Aperture List
+	CableNodeRevF.APR_LIB			-->	Aperture Library List
+
+	CableNodeRevF.GBL			-->	Gerber Bottom Layer Routing
+	CableNodeRevF.GBO			-->	Gerber Bottom Layer Overlay
+	CableNodeRevF.GPB			-->	Gerber Bottom Layer Pad Master
+	CableNodeRevF.GBP			-->	Gerber Bottom Layer Paste Mask
+	CableNodeRevF.GBS			-->	Gerber Bottom Layer Solder Mask
+
+	CableNodeRevF.GD1			-->	Gerber Drill Drawing
+	CableNodeRevF.GG1			-->	Gerber Hole Placement - Drill Guide
+
+	CableNodeRevF.GP1			-->	Gerber Internal Plane 1 Layer
+	CableNodeRevF.GP2			-->	Gerber Internal Plane 2 Layer
+
+	CableNodeRevF.GKO			-->	Gerber Keepout Layer
+	CableNodeRevF.GM2			-->	Gerber Mechanical 2 Layer
+	CableNodeRevF.GM4			-->	Gerber Mechanical 4 Layer
+	CableNodeRevF.GM11			-->	Gerber Mechanical 11 Layer
+
+	CableNodeRevF.GTL			-->	Gerber Top Layer Routing
+	CableNodeRevF.GTO			-->	Gerber Top Layer Overlay
+	CableNodeRevF.GPT			-->	Gerber Top Layer Pad Master
+	CableNodeRevF.GTP			-->	Gerber Top Layer Paste Mask
+	CableNodeRevF.GTS			-->	Gerber Top Layer Solder Mask
+
+	CableNodeRevF.EXTREP			-->	Gerber File Extension Description
+	CableNodeRevF.REP			-->	Gerber D-Code List
+
+	CableNodeRevF-RoundHoles.TXT		-->	NC Round Hole Drill File
+	CableNodeRevF-OvalHoles.TXT		-->	NC Oval Hole Drill File
+	Status Report				-->	NC Drill File Status Report
+
+	CableNodeRevF.DRR			-->	Drill Report File
+
+	Pick Place for CableNodeRevF.txt	-->	XY Placement Data for SMT
+
+	VID - BOM - CN Rev. E.xls		-->	Bill of Materials in EXCEL Format
+
+	F57878_Panelized_Gerber.zip		-->	Two Up Panelized Gerber Files from Crimp Circuits
+
+	README.TXT				-->	This File
+
+
+
+
+
+
+
+						
+
+ 

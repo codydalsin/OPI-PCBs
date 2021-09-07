@@ -1,0 +1,91 @@
+Protel Design System Design Rule Check
+PCB File : M:\Company\Project Management Office\Projects\CableNodeRevG\CableNodeRevG.PcbDoc
+Date     : 2021-09-01
+Time     : 9:47:04 AM
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad FD2-0(426.194mil,3471.662mil) on Multi-Layer
+   Pad FD3-0(426.194mil,375mil) on Multi-Layer
+   Pad FD1-0(3241.194mil,3471.662mil) on Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InComponent('BATT1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (InComponent('U10')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=30mil) (InComponent('SP1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.5mil) (InComponent('U2')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) ((InNamedPolygon('Top GND') OR InNamedPolygon('Bottom GND'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InNet('VBAT_POS')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+   Violation between Clearance Constraint: (Collision < 8mil) Between Arc (3241.194mil,3471.662mil) on Bottom Layer And Arc (3241.194mil,3471.662mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 8mil) Between Arc (3241.194mil,3471.662mil) on Keep-Out Layer And Arc (3241.194mil,3471.662mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 8mil) Between Arc (426.194mil,3471.662mil) on Bottom Layer And Arc (426.194mil,3471.662mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 8mil) Between Arc (426.194mil,3471.662mil) on Keep-Out Layer And Arc (426.194mil,3471.662mil) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 8mil) Between Arc (426.194mil,375mil) on Bottom Layer And Arc (426.194mil,375mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (6.838mil < 8mil) Between Arc (426.194mil,375mil) on Bottom Layer And Track (291.194mil,316.662mil)(1276.194mil,316.662mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (Collision < 8mil) Between Arc (426.194mil,375mil) on Keep-Out Layer And Arc (426.194mil,375mil) on Top Layer 
+   Violation between Clearance Constraint: (6.838mil < 8mil) Between Arc (426.194mil,375mil) on Top Layer And Track (291.194mil,316.662mil)(1276.194mil,316.662mil) on Keep-Out Layer 
+   Violation between Clearance Constraint: (0.007mil < 8mil) Between Split Plane  (5V) on Internal Plane 2 And Split Plane  (No Net) on Internal Plane 2 
+   Violation between Clearance Constraint: (4.014mil < 8mil) Between Track (40mil,460mil)(40mil,730mil) on Keep-Out Layer And Via (130.014mil,482.639mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (4.053mil < 8mil) Between Track (40mil,460mil)(40mil,730mil) on Keep-Out Layer And Via (130.014mil,732.639mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 8mil) Between Track (50mil,2200mil)(50mil,2480mil) on Keep-Out Layer And Via (130.014mil,2232.639mil) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 8mil) Between Track (50mil,2200mil)(50mil,2480mil) on Keep-Out Layer And Via (130.014mil,2482.639mil) from Top Layer to Bottom Layer 
+Rule Violations :13
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetLED1_A Between Pad LED1-A(3093.233mil,3878.221mil) on Top Layer [Unplated] And Pad R21-2(3174.666mil,3600mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetLED1_K Between Pad Q2-3(2735mil,3968.307mil) on Top Layer And Pad LED1-K(3013.706mil,3878.221mil) on Top Layer [Unplated] 
+Rule Violations :2
+
+Processing Rule : Width Constraint (Min=7mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=20mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (ISVIA)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=325mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=7mil) (InComponent('U2')),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (InComponent('U2')),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=6.5mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=5mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (3.393mil < 5mil) Between Text "LED3" (656.954mil,4070.006mil) on Top Overlay And Track (648.977mil,4030.039mil)(675.551mil,4056.614mil) on Top Overlay Silk Text to Silk Clearance [3.393mil]
+   Violation between Silk To Silk Clearance Constraint: (3.393mil < 5mil) Between Text "LED3" (656.954mil,4070.006mil) on Top Overlay And Track (675.551mil,4056.614mil)(1021.024mil,4056.614mil) on Top Overlay Silk Text to Silk Clearance [3.393mil]
+Rule Violations :2
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1200mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 17
+Waived Violations : 0
+Time Elapsed        : 00:00:03

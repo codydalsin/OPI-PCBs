@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CableNodeRevF.PcbDoc   3/16/2014  7:14:18 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CableNodeRevF-RoundHoles.TXT
+ASCII SlotHoles File : CableNodeRevF-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11mil (0.2794mm)         Round          29               11.33 Inch (287.71 mm)
+T2        12mil (0.3048mm)         Round          130              35.58 Inch (903.79 mm)
+T3        20mil (0.508mm)          Round          10               5.39 Inch (136.82 mm)
+T4        24mil (0.6096mm)         Round          1                0.00 Inch (0.00 mm)
+T5        28mil (0.7112mm)         Round          11               5.75 Inch (146.01 mm)
+T6        28mil (0.7112mm)         Slot           7                291.57 Inch (7405.96 mm)
+T7        30mil (0.762mm)          Round          56               19.16 Inch (486.75 mm)
+T8        35mil (0.889mm)          Round          8                3.14 Inch (79.69 mm)
+T9        42mil (1.0668mm)         Round          2                0.12 Inch (3.00 mm)
+T10       57mil (1.4478mm)         Round          3                0.60 Inch (15.24 mm)
+T11       72mil (1.8288mm)         Round          4                2.23 Inch (56.57 mm)
+T12       52mil (1.3208mm)         Round          2         NPTH   0.35 Inch (9.00 mm)
+T13       70mil (1.778mm)          Slot           6         NPTH   288.39 Inch (7325.06 mm)
+T14       79mil (2.0066mm)         Slot           2         NPTH   287.33 Inch (7298.06 mm)
+---------------------------------------------------------------------------
+Totals                                            271              950.93 Inch (24153.64 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

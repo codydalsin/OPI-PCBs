@@ -1,0 +1,77 @@
+Bill of Material for 
+On 17/12/2013 at 1:15:26 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               RC0603           2    C10, C11                     CAP CERM .1UF 10% 16V X7R 0603 
+ 0R                  RC0603           1    R46                          RES 0.0 OHM 1/10W 0603 SMD 
+ 1.02M               RC0805           1    R3                           RES 1.02M OHM 1/8W 1% 0805 SMD 
+ 100K                RC0603           1    R19                          RES 100K OHM 1/10W 5% 0603 SMD 
+ 100R                RC0603           5    R27, R28, R40, R41, R47      RES 100 OHM 1/10W 5% 0603 SMD 
+ 10K                 RC0603          12    R14, R16, R20, R23, R24, R31 RES 10K OHM 1/10W 5% 0603 SMD 
+                                           R34, R44, R50, R51, R52, R53
+ 10nF                RC0603           1    C7                           CAP CER 10000PF 50V 10% X7R 0603 
+ 10nF                RC0805           1    C6                           CAP CER 10000PF 100V X7R 0805 
+ 12R                 RC1206           4    R22, R29, R42, R43           RES 12.0 OHM 1/4W 1% 1206 SMD 
+ 12R                 RES2512          1    R45                          RES 12 OHM 1W 5% 2512 
+ 1759020                              1    P5                           CONN HEADER RT ANG 3POS 5.08MM 
+ 1K                  rc0603           5    R25, R26, R30, R33, R62      RES 1.0K OHM 1/10W 5% 0603 SMD 
+ 1M0                 rc0603           2    R35, R36                     RES 1.00M OHM 1/10W 1% 0603 SMD 
+ 1M0                 RESC1608X06N     1    R13                          RES 1.0M OHM 1/10W 5% 0603 SMD 
+ 1uF                 RC0603           1    C9                           CAP CER 1UF 10V 10% X5R 0603 
+ 22µH                IND-SRR0604      1    L2                           INDUCTOR PWR 22UH 20% SHIELD SMD 
+ 22pF                RC0805           1    C1                           CAP CER 22PF 50V 5% NPO 0805 
+ 22R                 RC1206           2    R21, R32                     RES 22.0 OHM 1/4W 1% 1206 SMD 
+ 24R                 RES2512          1    R18                          RES 24 OHM 1W 5% 2512 SMD 
+ 26650               Battery_26650    1    BATT1                        26650 LiFePO4 3.2V 3300mAh 
+ 27R                 RC0603           1    R15                          RES 27.0 OHM 1/10W 1% 0603 SMD 
+ 2K0                 RC0603           1    R54                          RES 2K OHM 1/10W 1% 0603 SMD 
+ 2M0                 RC0603           1    R5                           RES 2.00M OHM 1/10W 1% 0603 SMD 
+ 3.24M               RC0805           1    R1                           RES 3.24M OHM 1/8W 1% 0805 SMD 
+ 3.6µH               IND-WURTH        1    L1                           INDUCTOR POWER 3.6UH 1.38A SMD 
+ 3.83M               RC0603           3    R2, R6, R9                   RES 3.83M OHM 1/10W 1% 0603 SMD 
+ 330R                RC0805           1    R39                          RES 330 OHM 1/8W 5% 0805 SMD 
+ 4.75M               rc0603           1    R8                           RES 4.75M OHM 1/10W 1% 0603 SMD 
+ 4.7uF               RC0805           3    C2, C3, C4                   CAP CER 4.7UF 6.3V 10% X5R 0805 
+ 432K                RC0603           1    R38                          RES 432K OHM 1/10W 1% 0603 SMD 
+ 47uF                RC1206           2    C5, C8                       CAP CER 47UF 10V 20% X5R 1206 
+ 4M22                RC0603           1    R7                           RES 4.22M OHM 1/10W 1% 0603 SMD 
+ 4M99                rc0603           1    R11                          RES 4.99M OHM 1/10W 1% 0603 SMD 
+ 5.36M               RC0603           1    R12                          RES 5.36M OHM 1/10W 1% 0603 SMD 
+ 510R                RC0603           1    R60                          RES 510 OHM 1/10W 5% 0603 SMD 
+ 51R1                RC3225X07N       1    R17                          RES 51.1 OHM 1/2W 1% 1210 SMD 
+ 7.5M                RC0603           2    R4, R10                      RES 7.50M OHM 1/10W 1% 0603 SMD 
+ 715K                RC0603           1    R37                          RES 715K OHM 1/10W 1% 0603 SMD 
+ BAV99               SOT23            5    D3, D11, D12, D13, D14       DIODE SW DUAL 75V 350MW SOT23-3 
+ BQ25504RGT          BQ25504          1    U2                           IC ENERGY HARV CTRLR BATT 16QFN 
+ Canada Flag         CanadaFlag500x250    2    CANADAFLAG1, CANADAFLAG2     Canada Flag          
+ CARDEDGE-06-12      EdgeConnectorFingers    1    P4                           CONN EDGECARD 6POS .100 FINGERS 
+ CONN                BATTERYCONNECTOR    1    J1                           CONN HEADER 2POS 3MM VERT TIN 
+ DDZ5V6ASF-7         SOD323F          1    D15                          DIODE ZENER 5.42V 500MW SOD323F 
+ DFLS1200-7          POWERDI-123      2    D1, D4                       DIODE SCHOTTKY 1A 200V PWRDI 123 
+ DS2482S-100+        SOIC127P580X153-8N    1    U6                           IC BRIDGE I2C TO 1-WIRE 8-SOIC 
+ ESD5B5.0ST1G        SOD-523          3    D6, D8, D9                   TVS BIDIRECT 50W SOD523 
+ FDG6342L            TS5A3160         2    U3, U5                       IC LOAD SWITCH INTEGRATED SC70-6 
+ Fiducial - Round    FIDUCIAL ROUND SMALL    3    FD1, FD2, FD3                Fiducial Round       
+ GREEN               LED-OVS5MxBCR4    2    LED2, LED3                   LED 0.48W GREEN WTR CLR 3.5MM 
+ Header 1x2 RA       HDR1X2           1    P1                           SIL HORIZ PC TAIL PIN HEADER 
+ Header 2            HDR1X2           1    P3                           Header, 2-Pin        
+ Header 4            HDR1X4           1    P2                           Header, 4-Pin        
+ LTC3526LBEDC-2      LTC3526          1    U1                           IC REG BOOST SYNC ADJ 0.55A 6DFN 
+ MDSM-4R Reed Switch MDSM-4           1    SW1                          SWITCH REED MAG SMT 12-18AT 
+ MINISMDC050F-2      MINISMD050       2    F2, F3                       POLYSWITCH .50A RESET FUSE SMD 
+ MINISMDC260F-2      MINISMDC260F     1    F1                           POLYSWITCH 2.6A RESET FUSE SMD 
+ MMBFJ270            SOT23            1    Q6                           IC SWITCH P-CHANNEL SOT-23 
+ NLAS4157D           TS5A3160         2    U8, U9                       IC SWITCH SPDT SC88  
+ PGB1010603NR        RC0603           3    D2, D5, D10                  SUPPRESSOR ESD 24VDC 0603 SMD 
+ RED                 LED-OVS5MxBCR4    2    LED1, LED4                   LED 0.33W RED WTR CLR 3.5MM 
+ RF 200 Snappy Transceiver RF200            1    RAD1                         Synapse RF200PF1 Snappy Transceiver 
+ SDMG0340LC          SOT-323          1    D16                          DIODE SCHOTTKY 40V 30MA SOT323 
+ SI2301BDS           SOT23(DGS)       1    Q1                           MOSFET P-CH 20V 2.2A SOT23-3 
+ SI2302CDS           SOT23            4    Q2, Q3, Q4, Q5               MOSFET N-CH 20V 2.6A SOT23-3 
+ SOLAR_PANEL         SOLAR_PANEL_FLEX    1    SP1                          Solar Panel, Flexible, 3.6V and 4.8V footprints 
+ Testpoint           Testpoint       24    TP1, TP2, TP3, TP4, TP5, TP6                      
+                                           TP7, TP8, TP9, TP10, TP11
+                                           TP12, TP13, TP14, TP15, TP16
+                                           TP17, TP18, TP19, TP20, TP21
+                                           TP22, TP23, TP24

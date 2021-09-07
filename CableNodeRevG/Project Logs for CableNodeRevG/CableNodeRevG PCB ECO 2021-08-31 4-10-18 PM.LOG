@@ -1,0 +1,34 @@
+Removed Member From Class: ClassName=CableNodeRevG Member=LED?
+Removed Member From Class: ClassName=CableNodeRevG Member=LEDTEST
+Change Component Comment : Designator=LED2 Old Comment=BLUE New Comment=GH_JTLPS1.14-MFN8-25-1-150-R33
+Change Component Comment : Designator=LED3 Old Comment=BLUE New Comment=GH_JTLPS1.14-MFN8-25-1-150-R33
+Change Component Comment : Designator=LED1 Old Comment=RED New Comment=GH_JTLPS1.24-K5L2-1-1-150-R33
+Change Component Comment : Designator=LED4 Old Comment=RED New Comment=GH_JTLPS1.24-K5L2-1-1-150-R33
+Change component parameters: Designator = "LED1" ("LED1"); Footprint = "LED-OVS5MXBCR4"; UniqueID = "\IFOZTUXE" ("\IFOZTUXE")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "OSRAM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GH JTLPS1.24-K5L2-1-1-150-R33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2" ("LED2"); Footprint = "LED-OVS5MXBCR4"; UniqueID = "\PEDYYEUT" ("\PEDYYEUT")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "OSRAM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GH JTLPS1.24-K5L2-1-1-150-R33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED3" ("LED3"); Footprint = "LED-OVS5MXBCR4"; UniqueID = "\MESRNTOM" ("\MESRNTOM")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "OSRAM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GH JTLPS1.24-K5L2-1-1-150-R33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED4" ("LED4"); Footprint = "LED-OVS5MXBCR4"; UniqueID = "\ZNYGQOKD" ("\ZNYGQOKD")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "OSRAM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GH JTLPS1.24-K5L2-1-1-150-R33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
