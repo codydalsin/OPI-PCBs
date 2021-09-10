@@ -1,0 +1,1240 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 5 0.8361108 3.866622 180 N LED4 GH_JTLPS1.24-K5L2-1-1-150-R33 ;0=1,1=0.0000
+PRP Datasheet_Link ''
+PRP Height '0.8mm'
+PRP Manufacturer 'OSRAM'
+PRP Manufacturer_Part_Number 'GH JTLPS1.24-K5L2-1-1-150-R33'
+PRP Manufacturer_Name ''
+PRP Manufacturer_Part_Number ''
+PRP Mouser2_Part_Number ''
+PRP Mouser2_Price/Stock ''
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '720-GHJTLPS124A1048'
+TOP 0 0.8083549 3.866622 0 N 2 1 LED4-A
+TOP 1 0.8878825 3.866622 90 N 1 2 LED4-K
+#
+# CMP 1
+CMP 6 3.0655362 3.8665821 0 N LED2 GH_JTLPS1.14-MFN8-25-1-150-R33 ;0=1,1=0.0000
+PRP Datasheet_Link ''
+PRP Height '0.8mm'
+PRP Manufacturer 'OSRAM'
+PRP Manufacturer_Part_Number 'GDJTLPS1.14-MFN8-25-1-150-R33'
+PRP Manufacturer_Name ''
+PRP Manufacturer_Part_Number ''
+PRP Mouser2_Part_Number ''
+PRP Mouser2_Price/Stock ''
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '720-GDJTLPS114A1051'
+TOP 0 3.0932921 3.8665821 180 N 6 2 LED2-22
+TOP 1 3.0137645 3.8665821 270 N 5 2 LED2-K
+#
+# CMP 2
+CMP 53 2.3 4.275 180 N U9 NLAS4157D ;0=1,1=0.0433
+PRP Category 'Integrated Circuits (ICs)'
+PRP Circuit '1 x SPDT'
+PRP ComponentLink1Description 'http://www.onsemi.com/pub_link/Collateral/NLAS4157-D.PDF'
+PRP ComponentLink1URL 'http://www.onsemi.com/pub_link/Collateral/NLAS4157-D.PDF'
+PRP Current_-_Supply '500nA'
+PRP Function 'Switch'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'NLAS4157DFT2G'
+PRP Mounting_Type 'Surface Mount'
+PRP On-State_Resistance '1.15 Ohm'
+PRP Operating_Temperature '-40°C ~ 85°C'
+PRP OPI_VID '101351'
+PRP Package_/_Case '6-TSSOP, SC-88, SOT-363'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Pricing_1 '3000=0.15291, 6000=0.14305, 15000=0.13318, 30000=0.12628, 75000=0.12332, 150000=0.11838 (CAD)'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '3000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SC-88'
+PRP Supplier_Part_Number_1 'NLAS4157DFT2GOSTR-ND'
+PRP Voltage_-_Supply__Single/Dual_(±) '1.65 V ~ 5.5 V'
+PRP Voltage_Supply_Source 'Single Supply'
+TOP 0 2.2625984 4.2494094 90 N 0 1 U9-1
+TOP 1 2.2625984 4.275 90 N 60 91 U9-2
+TOP 2 2.2625984 4.3005905 90 N 17 1 U9-3
+TOP 3 2.3374015 4.3005905 90 N 19 2 U9-4
+TOP 4 2.3374015 4.275 90 N 24 2 U9-5
+TOP 5 2.3374015 4.2494094 90 N 18 1 U9-6
+#
+# CMP 3
+CMP 35 1.535 3.64 0 N TP16 Testpoint ;0=2,1=0.0000
+TOP 0 1.5 3.65 180 N 61 2 TP16-1
+#
+# CMP 4
+CMP 36 1.6 3.65 0 N TP13 Testpoint ;0=2,1=0.0000
+TOP 0 1.6 3.65 180 N 55 2 TP13-1
+#
+# CMP 5
+CMP 21 2.418157 4.125 90 N R62 1K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ102V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ102V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ102V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101077'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00172, 10000=0.00149, 25000=0.00131, 50000=0.0012, 125000=0.00118 (CAD)'
+PRP Resistance_(Ohms) '1k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '14380000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P1.0KGTR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 2.418157 4.1614172 180 N 18 0 R62-1
+TOP 1 2.418157 4.0885826 180 N 69 2 R62-2
+#
+# CMP 6
+CMP 21 2.115 4.317 0 N R60 100R ;0=1,1=0.0217
+PRP Category_1 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ101V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ101V+7+WW'
+PRP Composition 'Thick Film'
+PRP Description_1 'RES 100 OHM 1/10W 5% 0603 SMD'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ101V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101402'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '1=0.13, 50=0.016, 100=0.0122, 250=0.00908, 500=0.0067, 1000=0.00447, 2500=0.00378 (CAD)'
+PRP Resistance_(Ohms) '100'
+PRP RoHS_1 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '1062394'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package '0603'
+PRP Supplier_Part_Number_1 'P100GCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 2.1514172 4.317 270 N 17 0 R60-1
+TOP 1 2.0785826 4.317 270 N 60 71 R60-2
+#
+# CMP 7
+CMP 21 2.4179326 3.9683072 270 N R47 100R ;0=1,1=0.0217
+PRP Category_1 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ101V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ101V+7+WW'
+PRP Composition 'Thick Film'
+PRP Description_1 'RES 100 OHM 1/10W 5% 0603 SMD'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ101V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101402'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '1=0.13, 50=0.016, 100=0.0122, 250=0.00908, 500=0.0067, 1000=0.00447, 2500=0.00378 (CAD)'
+PRP Resistance_(Ohms) '100'
+PRP RoHS_1 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '1062394'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package '0603'
+PRP Supplier_Part_Number_1 'P100GCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 2.4179326 3.93189 0 N 21 0 R47-1
+TOP 1 2.4179326 4.0047246 0 N 69 3 R47-2
+#
+# CMP 8
+CMP 31 2.275 3.93189 270 N Q6 MMBFJ270 ;0=1,1=0.0433
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://www.fairchildsemi.com/ds/MM/MMBFJ270.pdf'
+PRP ComponentLink1URL 'http://www.fairchildsemi.com/ds/MM/MMBFJ270.pdf'
+PRP Current_-_Drain_(Idss)_@_Vds_(Vgs '0)=2mA @ 15V'
+PRP Current_Drain_(Id)_-_Max '-'
+PRP Drain_to_Source_Voltage_(Vdss) '-'
+PRP FET_Type 'P-Channel'
+PRP Input_Capacitance_(Ciss)_@_Vds '-'
+PRP Manufacturer 'Fairchild Semiconductor'
+PRP Manufacturer_Part_Number 'MMBFJ270'
+PRP Mounting_Type 'Surface Mount'
+PRP OPI_VID '101484'
+PRP Package_/_Case 'TO-236-3, SC-59, SOT-23-3'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_-_Max '225mW'
+PRP Pricing_1 '3000=0.14055, 6000=0.13203, 15000=0.12352, 30000=0.11329, 75000=0.10903, 150000=0.10477 (CAD)'
+PRP Resistance_-_RDS(On) '-'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '15000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOT-23-3 (TO-236)'
+PRP Supplier_Part_Number_1 'MMBFJ270TR-ND'
+PRP Voltage_-_Breakdown_(V(BR)GSS) '30V'
+PRP Voltage_-_Cutoff_(VGS_off)_@_Id '500mV @ 1nA'
+TOP 0 2.231693 3.8944884 270 N 28 2 Q6-1
+TOP 1 2.2316931 3.9692916 270 N 60 90 Q6-2
+TOP 2 2.3183072 3.93189 270 N 21 1 Q6-3
+#
+# CMP 9
+CMP 21 2.1352393 3.925 90 N R38 432K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF4323V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF4323V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3EKF4323V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101344'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00257, 10000=0.00224, 25000=0.00196, 50000=0.0018, 125000=0.00177 (CAD)'
+PRP Resistance_(Ohms) '432k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '75000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P432KHTR-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 2.1352393 3.9614172 180 N 60 72 R38-1
+TOP 1 2.1352393 3.8885826 180 N 28 0 R38-2
+#
+# CMP 10
+CMP 21 2.42 3.69 180 N R37 715K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF7153V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF7153V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3EKF7153V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101343'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00257, 10000=0.00224, 25000=0.00196, 50000=0.0018, 125000=0.00177 (CAD)'
+PRP Resistance_(Ohms) '715k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '210000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P715KHTR-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 2.3835828 3.69 90 N 60 73 R37-1
+TOP 1 2.4564174 3.69 90 N 29 0 R37-2
+#
+# CMP 11
+CMP 21 2.05 3.925 90 N R36 1M0 ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF1004V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF1004V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3EKF1004V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101342'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00257, 10000=0.00224, 25000=0.00196, 50000=0.0018, 125000=0.00177 (CAD)'
+PRP Resistance_(Ohms) '1M'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '1695000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P1.00MHTR-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 2.05 3.9614172 180 N 35 11 R36-1
+TOP 1 2.05 3.8885826 180 N 28 1 R36-2
+#
+# CMP 12
+CMP 21 2.42 3.606 180 N R35 1M0 ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF1004V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF1004V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3EKF1004V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101342'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00257, 10000=0.00224, 25000=0.00196, 50000=0.0018, 125000=0.00177 (CAD)'
+PRP Resistance_(Ohms) '1M'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '1695000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P1.00MHTR-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 2.3835828 3.606 90 N 53 23 R35-1
+TOP 1 2.4564174 3.606 90 N 29 1 R35-2
+#
+# CMP 13
+CMP 53 2.125 3.4334569 270 N U5 FDG6342L ;0=1,1=0.0433
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'http://www.fairchildsemi.com/ds/FD/FDG6342L.pdf'
+PRP ComponentLink1URL 'http://www.fairchildsemi.com/ds/FD/FDG6342L.pdf'
+PRP Current_Limit '1.5A'
+PRP Internal_Switch(s) 'Yes'
+PRP Manufacturer 'Fairchild Semiconductor'
+PRP Manufacturer_Part_Number 'FDG6342L'
+PRP Mounting_Type 'Surface Mount'
+PRP Number_of_Outputs '1'
+PRP Operating_Temperature '-55°C ~ 150°C'
+PRP OPI_VID '101348'
+PRP Package_/_Case '6-TSSOP, SC-88, SOT-363'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Pricing_1 '3000=0.13942, 6000=0.13097, 15000=0.12252, 30000=0.11238, 75000=0.10816, 150000=0.10393 (CAD)'
+PRP Rds_(On) '150 mOhm'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '24000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SC-70-6'
+PRP Supplier_Part_Number_1 'FDG6342LTR-ND'
+PRP Type 'High Side Switch'
+PRP Voltage_-_Input '2.5 V ~ 8 V'
+TOP 0 2.1505906 3.3960553 0 N 60 74 U5-1
+TOP 1 2.125 3.3960553 0 N 73 0 U5-2
+TOP 2 2.0994095 3.3960553 0 N 73 1 U5-3
+TOP 3 2.0994095 3.4708584 0 N 62 18 U5-4
+TOP 4 2.125 3.4708584 0 N 41 0 U5-5
+TOP 5 2.1505906 3.4708584 0 N 40 0 U5-6
+#
+# CMP 14
+CMP 25 1.8575855 3.45 0 N R18 24R ;0=1,1=0.0276
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf'
+PRP ComponentLink1URL 'http://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.028_ (0.70mm)'
+PRP Manufacturer 'TTI Inc.'
+PRP Manufacturer_Part_Number 'CRCW251224R0JNEG'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101380'
+PRP Package_/_Case '2512 (6432 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '1W'
+PRP Pricing_1 '4000=0.03773, 8000=0.0343, 12000=0.03201, 28000=0.03041, 100000=0.02916 (CAD)'
+PRP Resistance_(Ohms) '24'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.248_ L x 0.126_ W (6.30mm x 3.20mm)'
+PRP Stock_1 '20000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package '2512'
+PRP Supplier_Part_Number_1 'RMCF2512JT24R0TR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.9717587 3.45 270 N 73 2 R18-1
+TOP 1 1.7434122 3.45 270 N 74 4 R18-2
+#
+# CMP 15
+CMP 21 2.075 3.582378 180 N R15 27R ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF27R0V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF27R0V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3EKF27R0V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101337'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.0026, 10000=0.00226, 25000=0.00199, 50000=0.00182, 125000=0.00179 (CAD)'
+PRP Resistance_(Ohms) '27'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '230000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P27.0HTR-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 2.0385828 3.582378 90 N 61 0 R15-1
+TOP 1 2.1114174 3.582378 90 N 41 1 R15-2
+#
+# CMP 16
+CMP 8 1.3 3.468215 180 N P2 Header_4_(NNP) ;0=2,1=0.0000
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Manufacturer '3M'
+PRP Manufacturer_Part_Number '2340-6111TG'
+PRP OPI_VID '100210'
+PRP Publisher 'Altium Limited'
+TOP 0 1.3 3.468215 0 N 82 2 P2-1
+TOP 1 1.4 3.468215 0 N 38 3 P2-2
+TOP 2 1.5 3.468215 0 N 37 3 P2-3
+TOP 3 1.6 3.468215 0 N 60 100 P2-4
+#
+# CMP 17
+CMP 21 1.47 3.843 180 N R27 100R ;0=1,1=0.0217
+PRP Category_1 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ101V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ101V+7+WW'
+PRP Composition 'Thick Film'
+PRP Description_1 'RES 100 OHM 1/10W 5% 0603 SMD'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ101V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101402'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '1=0.13, 50=0.016, 100=0.0122, 250=0.00908, 500=0.0067, 1000=0.00447, 2500=0.00378 (CAD)'
+PRP Resistance_(Ohms) '100'
+PRP RoHS_1 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '1062394'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package '0603'
+PRP Supplier_Part_Number_1 'P100GCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.4335828 3.843 90 N 80 0 R27-1
+TOP 1 1.5064174 3.843 90 N 38 0 R27-2
+#
+# CMP 18
+CMP 21 1.47 3.764 180 N R28 100R ;0=1,1=0.0217
+PRP Category_1 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ101V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ101V+7+WW'
+PRP Composition 'Thick Film'
+PRP Description_1 'RES 100 OHM 1/10W 5% 0603 SMD'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ101V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101402'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Cut Tape (CT)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '1=0.13, 50=0.016, 100=0.0122, 250=0.00908, 500=0.0067, 1000=0.00447, 2500=0.00378 (CAD)'
+PRP Resistance_(Ohms) '100'
+PRP RoHS_1 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '1062394'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package '0603'
+PRP Supplier_Part_Number_1 'P100GCT-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.4335828 3.764 90 N 70 0 R28-1
+TOP 1 1.5064174 3.764 90 N 37 0 R28-2
+#
+# CMP 19
+CMP 37 1.6 4 0 N TP7 Testpoint ;0=2,1=0.0000
+TOP 0 1.575 4 180 N 57 2 TP7-1
+#
+# CMP 20
+CMP 36 1.6 4.4 0 N TP8 Testpoint ;0=2,1=0.0000
+TOP 0 1.6 4.4 180 N 56 1 TP8-1
+#
+# CMP 21
+CMP 38 1.6 4.3 0 N TP9 Testpoint ;0=2,1=0.0000
+TOP 0 1.6 4.2 180 N 33 2 TP9-1
+#
+# CMP 22
+CMP 39 1.9 3.7489764 0 N TP10 Testpoint ;0=2,1=0.0000
+TOP 0 1.85 3.7 180 N 31 2 TP10-1
+#
+# CMP 23
+CMP 21 1.47 4.317 180 N R50 10K_(NNP) ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101044'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00174, 10000=0.00151, 25000=0.00132, 50000=0.00122, 125000=0.00119 (CAD)'
+PRP Resistance_(Ohms) '10k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '13440000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGTR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.4335828 4.317 90 N 83 0 R50-1
+TOP 1 1.5064174 4.317 90 N 60 75 R50-2
+#
+# CMP 24
+CMP 21 1.47 4.16 180 N R51 10K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101044'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00174, 10000=0.00151, 25000=0.00132, 50000=0.00122, 125000=0.00119 (CAD)'
+PRP Resistance_(Ohms) '10k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '13440000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGTR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.4335828 4.16 90 N 84 0 R51-1
+TOP 1 1.5064174 4.16 90 N 60 76 R51-2
+#
+# CMP 25
+CMP 21 1.47 4.08 180 N R52 10K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101044'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00174, 10000=0.00151, 25000=0.00132, 50000=0.00122, 125000=0.00119 (CAD)'
+PRP Resistance_(Ohms) '10k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '13440000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGTR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.4335828 4.08 90 N 85 0 R52-1
+TOP 1 1.5064174 4.08 90 N 60 77 R52-2
+#
+# CMP 26
+CMP 21 1.47 3.92 180 N R53 10K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101044'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00174, 10000=0.00151, 25000=0.00132, 50000=0.00122, 125000=0.00119 (CAD)'
+PRP Resistance_(Ohms) '10k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '13440000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGTR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.4335828 3.92 90 N 86 0 R53-1
+TOP 1 1.5064174 3.92 90 N 60 78 R53-2
+#
+# CMP 27
+CMP 37 1.85 4.375 90 N TP20 Testpoint ;0=2,1=0.0000
+TOP 0 1.85 4.35 90 N 19 3 TP20-1
+#
+# CMP 28
+CMP 0 2.985691 2.53 0 N BATT1 26650 ;0=2,1=1.0236
+PRP Manufacturer 'TACBattery'
+PRP Manufacturer_Part_Number '26650 3.2V 1500mAh with wire'
+PRP OPI_VID '101392'
+TOP 0 0.9608879 2.2267323 0 N 0 5 BATT1-0
+TOP 1 0.9648243 2.8348819 180 N 0 6 BATT1-0
+TOP 2 1.6963209 2.2268504 0 N 0 7 BATT1-0
+TOP 3 2.4294705 2.2267323 0 N 0 8 BATT1-0
+TOP 4 1.7002573 2.835 180 N 0 9 BATT1-0
+TOP 5 2.4334069 2.8348819 180 N 0 10 BATT1-0
+TOP 6 2.985691 2.53 0 N 27 5 BATT1-1
+TOP 7 2.913691 2.53 180 N 27 6 BATT1-2
+TOP 8 2.613691 2.63 180 N 27 7 BATT1-3
+TOP 9 2.613691 2.43 180 N 27 4 BATT1-4
+TOP 10 0.4148235 2.5300002 0 N 60 94 BATT1-5
+TOP 11 0.486691 2.53 0 N 60 95 BATT1-6
+TOP 12 0.786691 2.63 0 N 60 97 BATT1-7
+TOP 13 0.786691 2.43 0 N 60 96 BATT1-8
+#
+# CMP 29
+CMP 40 0.348691 2.75 0 N TP18 Testpoint ;0=2,1=0.0000
+TOP 0 0.3 2.75 180 N 60 105 TP18-1
+#
+# CMP 30
+CMP 41 1.75 2.95 0 N TP17 Testpoint ;0=2,1=0.0000
+TOP 0 1.65 2.95 180 N 10 2 TP17-1
+#
+# CMP 31
+CMP 36 2.2 3 0 N TP15 Testpoint ;0=2,1=0.0000
+TOP 0 2.2 3 180 N 59 3 TP15-1
+#
+# CMP 32
+CMP 42 2.3 2.9 0 N TP14 Testpoint ;0=2,1=0.0000
+TOP 0 2.275 2.925 180 N 58 3 TP14-1
+#
+# CMP 33
+CMP 43 2.725 4.125 0 N TP12 Testpoint ;0=2,1=0.0000
+TOP 0 2.75 4.15 180 N 28 4 TP12-1
+#
+# CMP 34
+CMP 23 0.77 3.5866387 0 N R32 22R ;0=1,1=0.0256
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://www.yageo.com/documents/recent/PYu-RC1206_51_RoHS_L_4.pdf'
+PRP ComponentLink1URL 'http://www.yageo.com/documents/recent/PYu-RC1206_51_RoHS_L_4.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.026_ (0.65mm)'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC1206FR-0722RL'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101340'
+PRP Package_/_Case '1206 (3216 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.25W, 1/4W'
+PRP Pricing_1 '5000=0.00427, 10000=0.00371, 25000=0.00326, 50000=0.00299, 125000=0.00293 (CAD)'
+PRP Resistance_(Ohms) '22'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.122_ L x 0.063_ W (3.10mm x 1.60mm)'
+PRP Stock_1 '45000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-22.0FRTR-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 0.8290551 3.5866387 270 N 62 21 R32-1
+TOP 1 0.7109449 3.5866387 270 N 2 2 R32-2
+#
+# CMP 35
+CMP 21 1.1851335 3.685 180 N R34 10K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101044'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00174, 10000=0.00151, 25000=0.00132, 50000=0.00122, 125000=0.00119 (CAD)'
+PRP Resistance_(Ohms) '10k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '13440000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGTR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.1487163 3.685 90 N 30 0 R34-1
+TOP 1 1.2215509 3.685 90 N 60 79 R34-2
+#
+# CMP 36
+CMP 21 1.1851335 3.606 0 N R33 1K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ102V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ102V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ102V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101077'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00172, 10000=0.00149, 25000=0.00131, 50000=0.0012, 125000=0.00118 (CAD)'
+PRP Resistance_(Ohms) '1k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '14380000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P1.0KGTR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 1.2215507 3.606 270 N 31 0 R33-1
+TOP 1 1.1487161 3.606 270 N 30 1 R33-2
+#
+# CMP 37
+CMP 31 1.125 3.825 0 N Q5 SI2302CDS ;0=1,1=0.0433
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://www.vishay.com/docs/68645/si2302cd.pdf'
+PRP ComponentLink1URL 'http://www.vishay.com/docs/68645/si2302cd.pdf'
+PRP Current_-_Continuous_Drain_(Id)_@_25°_C '2.6A'
+PRP Drain_to_Source_Voltage_(Vdss) '20V'
+PRP FET_Feature 'Logic Level Gate'
+PRP FET_Type 'MOSFET N-Channel, Metal Oxide'
+PRP Gate_Charge_(Qg)_@_Vgs '5.5nC @ 4.5V'
+PRP Input_Capacitance_(Ciss)_@_Vds '-'
+PRP Manufacturer 'Vishay Siliconix'
+PRP Manufacturer_Part_Number 'SI2302CDS-T1-GE3'
+PRP Mounting_Type 'Surface Mount'
+PRP OPI_VID '101327'
+PRP Package_/_Case 'TO-236-3, SC-59, SOT-23-3'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_-_Max '710mW'
+PRP Pricing_1 '3000=0.18079, 6000=0.16912, 15000=0.15746, 30000=0.14871, 75000=0.1458, 150000=0.13996 (CAD)'
+PRP Rds_On_(Max)_@_Id__Vgs '57 mOhm @ 3.6A, 4.5V'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '27000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOT-23-3 (TO-236)'
+PRP Supplier_Part_Number_1 'SI2302CDS-T1-GE3TR-ND'
+PRP Vgs(th)_(Max)_@_Id '850mV @ 250µA'
+TOP 0 1.1624016 3.781693 180 N 30 2 Q5-1
+TOP 1 1.0875984 3.7816931 180 N 60 80 Q5-2
+TOP 2 1.125 3.8683072 180 N 1 1 Q5-3
+#
+# CMP 38
+CMP 19 1.382104 1.4117387 180 N P5 1759020 ;0=2,1=0.3386
+PRP Category 'Connectors, Interconnects'
+PRP Color 'Green'
+PRP ComponentLink1Description 'http://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1759020.pdf'
+PRP ComponentLink1URL 'http://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1759020.pdf'
+PRP Current '10A'
+PRP Features '-'
+PRP Header_Orientation '90°, Right Angle'
+PRP Manufacturer 'Phoenix Contact'
+PRP Manufacturer_Part_Number '1759020'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Levels '1'
+PRP OPI_VID '101377'
+PRP Packaging 'Bulk'
+PRP Pitch '0.200_ (5.08mm)'
+PRP Plug_Wire_Entry '-'
+PRP Positions_Per_Level '3'
+PRP Pricing_1 '1=0.85, 10=0.826, 50=0.7716, 100=0.7098, 250=0.65576, 500=0.62494, 1000=0.58636 (CAD)'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '4474'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '277-1096-ND'
+PRP Terminal_Block_Type 'Header, Male Pins, Shrouded (2 Side)'
+PRP Termination 'Solder'
+PRP Voltage '300V'
+PRP Wire_Gauge '-'
+TOP 0 1.382104 1.4117387 0 N 81 2 P5-1
+TOP 1 1.582104 1.4117387 0 N 48 4 P5-2
+TOP 2 1.782104 1.4117387 0 N 60 103 P5-3
+#
+# CMP 39
+CMP 20 0.544538 3.685 90 N D1 DFLS1200-7 ;0=1,1=0.0394
+PRP Capacitance_@_Vr__F '23pF @ 5V, 1MHz'
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://www.diodes.com/datasheets/ds30628.pdf'
+PRP ComponentLink1URL 'http://www.diodes.com/datasheets/ds30628.pdf'
+PRP Current_-_Average_Rectified_(Io) '1A'
+PRP Current_-_Reverse_Leakage_@_Vr '2µA @ 200V'
+PRP Diode_Type 'Schottky'
+PRP Manufacturer 'Diodes Inc'
+PRP Manufacturer_Part_Number 'DFLS1200-7'
+PRP Mounting_Type 'Surface Mount'
+PRP OPI_VID '101018'
+PRP Package_/_Case '2-SMD, Flat Lead'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Pricing_1 '3000=0.22411, 6000=0.21017, 12000=0.19516, 27000=0.18444, 51000=0.18122 (CAD)'
+PRP Reverse_Recovery_Time_(trr) '-'
+PRP RoHS 'RoHS Compliant'
+PRP Speed 'Fast Recovery =< 500ns, > 200mA (Io)'
+PRP Stock_1 '21000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'PowerDI™ 123'
+PRP Supplier_Part_Number_1 'DFLS1200DITR-ND'
+PRP Voltage_-_DC_Reverse_(Vr)_(Max) '200V'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '850mV @ 1A'
+TOP 0 0.544538 3.7489764 180 N 82 1 D1-1
+TOP 1 0.544538 3.6485827 180 N 72 1 D1-2
+#
+# CMP 40
+CMP 21 2.2598425 3.2805119 90 N R16 10K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101044'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00174, 10000=0.00151, 25000=0.00132, 50000=0.00122, 125000=0.00119 (CAD)'
+PRP Resistance_(Ohms) '10k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '13440000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGTR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 2.2598425 3.3169291 180 N 40 1 R16-1
+TOP 1 2.2598425 3.2440945 180 N 62 19 R16-2
+#
+# CMP 41
+CMP 7 1.4575855 3.1929134 180 N P3 Header_2_(NNP) ;0=2,1=0.0000
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Manufacturer '3M'
+PRP Manufacturer_Part_Number '2340-6111TG'
+PRP OPI_VID '100210'
+PRP Publisher 'Altium Limited'
+TOP 0 1.4575855 3.1929134 0 N 60 99 P3-1
+TOP 1 1.5575855 3.1929134 0 N 16 4 P3-2
+#
+# CMP 42
+CMP 21 1.6185214 1.5616619 0 N D2 PGB1010603NR ;0=1,1=0.0217
+PRP Category_1 'Circuit Protection'
+PRP ComponentLink1Description 'http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf'
+PRP ComponentLink1URL 'http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf'
+PRP Description_1 'SUPPRESSOR ESD 24VDC 0603 SMD'
+PRP Manufacturer 'Littelfuse Inc'
+PRP Manufacturer_Part_Number 'PGB1010603NR'
+PRP Mounting_Type 'Surface Mount'
+PRP OPI_VID '101020'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Polarization 'Bidirectional'
+PRP Power_(Watts) '-'
+PRP Pricing_1 '5000=0.189, 10000=0.176, 25000=0.166 (USD)'
+PRP RoHS_1 'RoHS Compliant'
+PRP Stock_1 '10000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package '0603 (1608 Metric)'
+PRP Supplier_Part_Number_1 'F3591TR-ND'
+PRP Voltage_-_Breakdown '-'
+PRP Voltage_-_Reverse_Standoff_(Typ) '24V'
+TOP 0 1.6549386 1.5616619 270 N 60 81 D2-1
+TOP 1 1.582104 1.5616619 270 N 48 1 D2-2
+#
+# CMP 43
+CMP 3 1.8575855 0.06 0 N P4 CARDEDGE-06-12 ;0=1,1=0.0000
+PRP Contact_Finish 'Gold'
+PRP Contact_Finish_Thickness '30µin (0.76µm)'
+PRP Gender 'Male'
+PRP Number_of_Positions '12'
+PRP Number_of_Rows '2'
+PRP Pitch '0.100_ (2.54mm)'
+TOP 0 1.8575855 0.06 180 N 76 2 P4-1
+TOP 1 1.8575855 0.06 180 N 60 59 P4-2
+TOP 2 1.7575855 0.06 180 N 48 3 P4-3
+TOP 3 1.7575855 0.06 180 N 71 1 P4-4
+TOP 4 1.6575855 0.06 180 N 23 1 P4-5
+TOP 5 1.6575855 0.06 180 N 24 1 P4-6
+TOP 6 1.5575855 0.06 180 N 81 1 P4-7
+TOP 7 1.5575855 0.06 180 N 62 12 P4-8
+TOP 8 1.4575855 0.06 180 N 37 2 P4-9
+TOP 9 1.4575855 0.06 180 N 77 2 P4-10
+TOP 10 1.3575855 0.06 180 N 38 2 P4-11
+TOP 11 1.3575855 0.06 180 N 60 58 P4-12
+#
+# CMP 44
+CMP 31 2.7145806 3.925 0 N Q3 SI2302CDS ;0=1,1=0.0433
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://www.vishay.com/docs/68645/si2302cd.pdf'
+PRP ComponentLink1URL 'http://www.vishay.com/docs/68645/si2302cd.pdf'
+PRP Current_-_Continuous_Drain_(Id)_@_25°_C '2.6A'
+PRP Drain_to_Source_Voltage_(Vdss) '20V'
+PRP FET_Feature 'Logic Level Gate'
+PRP FET_Type 'MOSFET N-Channel, Metal Oxide'
+PRP Gate_Charge_(Qg)_@_Vgs '5.5nC @ 4.5V'
+PRP Input_Capacitance_(Ciss)_@_Vds '-'
+PRP Manufacturer 'Vishay Siliconix'
+PRP Manufacturer_Part_Number 'SI2302CDS-T1-GE3'
+PRP Mounting_Type 'Surface Mount'
+PRP OPI_VID '101327'
+PRP Package_/_Case 'TO-236-3, SC-59, SOT-23-3'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_-_Max '710mW'
+PRP Pricing_1 '3000=0.18079, 6000=0.16912, 15000=0.15746, 30000=0.14871, 75000=0.1458, 150000=0.13996 (CAD)'
+PRP Rds_On_(Max)_@_Id__Vgs '57 mOhm @ 3.6A, 4.5V'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '27000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOT-23-3 (TO-236)'
+PRP Supplier_Part_Number_1 'SI2302CDS-T1-GE3TR-ND'
+PRP Vgs(th)_(Max)_@_Id '850mV @ 250µA'
+TOP 0 2.7519822 3.881693 180 N 44 0 Q3-1
+TOP 1 2.677179 3.8816931 180 N 60 82 Q3-2
+TOP 2 2.7145806 3.9683072 180 N 5 1 Q3-3
+#
+# CMP 45
+CMP 23 3.2337209 3.6 0 N R22 12R ;0=1,1=0.0256
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://www.yageo.com/documents/recent/PYu-RC1206_51_RoHS_L_4.pdf'
+PRP ComponentLink1URL 'http://www.yageo.com/documents/recent/PYu-RC1206_51_RoHS_L_4.pdf'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.026_ (0.65mm)'
+PRP Manufacturer 'Yageo'
+PRP Manufacturer_Part_Number 'RC1206FR-0712RL'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101341'
+PRP Package_/_Case '1206 (3216 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.25W, 1/4W'
+PRP Pricing_1 '5000=0.00427, 10000=0.00371, 25000=0.00326, 50000=0.00299, 125000=0.00293 (CAD)'
+PRP Resistance_(Ohms) '12'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.122_ L x 0.063_ W (3.10mm x 1.60mm)'
+PRP Stock_1 '20000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-12.0FRTR-ND'
+PRP Temperature_Coefficient '±100ppm/°C'
+PRP Tolerance '±1%'
+TOP 0 3.292776 3.6 270 N 62 20 R22-1
+TOP 1 3.1746658 3.6 270 N 6 1 R22-2
+#
+# CMP 46
+CMP 21 2.7249998 3.764 0 N R24 10K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ103V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ103V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101044'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00174, 10000=0.00151, 25000=0.00132, 50000=0.00122, 125000=0.00119 (CAD)'
+PRP Resistance_(Ohms) '10k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '13440000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P10KGTR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 2.761417 3.764 270 N 44 1 R24-1
+TOP 1 2.6885824 3.764 270 N 60 83 R24-2
+#
+# CMP 47
+CMP 21 2.7250002 3.685 180 N R26 1K ;0=1,1=0.0217
+PRP Category 'Resistors'
+PRP ComponentLink1Description 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ102V+7+WW'
+PRP ComponentLink1URL 'http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ3GEYJ102V+7+WW'
+PRP Composition 'Thick Film'
+PRP Features '-'
+PRP Height '0.022_ (0.55mm)'
+PRP Manufacturer 'Panasonic Electronic Components'
+PRP Manufacturer_Part_Number 'ERJ-3GEYJ102V'
+PRP Number_of_Terminations '2'
+PRP OPI_VID '101077'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Power_(Watts) '0.1W, 1/10W'
+PRP Pricing_1 '5000=0.00172, 10000=0.00149, 25000=0.00131, 50000=0.0012, 125000=0.00118 (CAD)'
+PRP Resistance_(Ohms) '1k'
+PRP RoHS 'RoHS Compliant'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Stock_1 '14380000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'P1.0KGTR-ND'
+PRP Temperature_Coefficient '±200ppm/°C'
+PRP Tolerance '±5%'
+TOP 0 2.688583 3.685 90 N 56 0 R26-1
+TOP 1 2.7614176 3.685 90 N 44 2 R26-2
+#
+# CMP 48
+CMP 7 1.1851335 0.85 0 N P1 Header_1x2_RA ;0=2,1=0.0000
+PRP Category 'Connectors, Interconnects'
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://www.harwin.com/include/downloads/drawings/M20-996.PDF'
+PRP ComponentLink1URL 'http://www.harwin.com/include/downloads/drawings/M20-996.PDF'
+PRP Connector_Type 'Header, Unshrouded, Breakaway'
+PRP Contact_Finish 'Gold'
+PRP Contact_Finish_Thickness '-'
+PRP Contact_Mating_Length '0.240_ (6.10mm)'
+PRP Contact_Type 'Male Pin'
+PRP Fastening_Type '-'
+PRP Features '-'
+PRP Manufacturer 'Harwin Inc'
+PRP Manufacturer_Part_Number 'M20-9960245'
+PRP Mounting_Type 'Through Hole, Right Angle'
+PRP Number_of_Positions '2'
+PRP Number_of_Positions_Loaded 'All'
+PRP Number_of_Rows '1'
+PRP OPI_VID '101483'
+PRP Packaging 'Bulk'
+PRP Pitch '0.100_ (2.54mm)'
+PRP Pricing_1 '1=0.31, 10=0.18, 25=0.1288, 50=0.0978, 100=0.0798, 250=0.06692, 500=0.06178, 1000=0.05406, 2500=0.04119 (CAD)'
+PRP RoHS 'RoHS Compliant'
+PRP Row_Spacing '-'
+PRP Stock_1 '1174'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '952-2244-ND'
+PRP Termination 'Solder'
+TOP 0 1.1851335 0.85 180 N 69 6 P1-1
+TOP 1 1.0851335 0.85 180 N 60 93 P1-2
+#
+# CMP 49
+CMP 28 1.6067104 1.6516619 0 N D8 ESD5B5.0ST1G ;0=1,1=0.0276
+PRP Category 'Circuit Protection'
+PRP ComponentLink1Description 'http://www.onsemi.com/pub_link/Collateral/ESD5B5.0ST1G.PDF'
+PRP ComponentLink1URL 'http://www.onsemi.com/pub_link/Collateral/ESD5B5.0ST1G.PDF'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'ESD5B5.0ST1G'
+PRP Mounting_Type 'Surface Mount'
+PRP OPI_VID '101019'
+PRP Package_/_Case 'SC-79, SOD-523'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Polarization 'Bidirectional'
+PRP Power_(Watts) '50W'
+PRP Pricing_1 '3000=0.06935, 6000=0.06253, 12000=0.05571, 24000=0.0523, 48000=0.04661, 96000=0.04548 (CAD)'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '240000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOD-523'
+PRP Supplier_Part_Number_1 'ESD5B5.0ST1GOSTR-ND'
+PRP Voltage_-_Breakdown '5.8V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 1.6313166 1.6516619 270 N 60 84 D8-1
+TOP 1 1.582104 1.6516619 270 N 48 2 D8-2
+#
+# CMP 50
+CMP 15 0.585514 3.2456387 180 N SW1 MK15-E-2 ;0=1,1=0.1118
+PRP Category_1 'Switches'
+PRP Circuit 'SPST-NO'
+PRP ComponentLink1Description 'http://www.meder.com/fileadmin/products/en_datasheets/9151710025e.pdf'
+PRP ComponentLink1URL 'http://www.meder.com/fileadmin/products/en_datasheets/9151710025e.pdf'
+PRP Magnet 'Not Specified'
+PRP Manufacturer 'Standex-Meder Electronics'
+PRP Manufacturer_Part_Number 'MK15-E-2'
+PRP Mounting_Type 'PCB, Surface Mount'
+PRP Must_Operate '25 ~ 30AT'
+PRP Must_Release '-'
+PRP OPI_VID '101384'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pricing_1 '1=1.91, 10=1.674, 25=1.6076, 100=1.4735, 250=1.17212, 500=1.07162, 1000=1.03814 (CAD)'
+PRP RoHS_1 'RoHS Compliant'
+PRP Stock_1 '4362'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '374-1303-1-ND'
+PRP Switching_Current_(DC)_(Max) '500mA'
+PRP Switching_Power_(Max) '10W'
+PRP Switching_Voltage_(DC)_(Max) '180V'
+PRP Termination_Style 'Gull Wing'
+PRP Type 'Molded Body'
+TOP 0 0.2244905 3.2456387 0 N 60 89 SW1-1
+TOP 1 0.9465377 3.2456387 0 N 16 3 SW1-2
+#
+# CMP 51
+CMP 28 1.281 3.178 180 N D9 ESD5B5.0ST1G ;0=1,1=0.0276
+PRP Category 'Circuit Protection'
+PRP ComponentLink1Description 'http://www.onsemi.com/pub_link/Collateral/ESD5B5.0ST1G.PDF'
+PRP ComponentLink1URL 'http://www.onsemi.com/pub_link/Collateral/ESD5B5.0ST1G.PDF'
+PRP Manufacturer 'ON Semiconductor'
+PRP Manufacturer_Part_Number 'ESD5B5.0ST1G'
+PRP Mounting_Type 'Surface Mount'
+PRP OPI_VID '101019'
+PRP Package_/_Case 'SC-79, SOD-523'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Polarization 'Bidirectional'
+PRP Power_(Watts) '50W'
+PRP Pricing_1 '3000=0.06935, 6000=0.06253, 12000=0.05571, 24000=0.0523, 48000=0.04661, 96000=0.04548 (CAD)'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '240000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOD-523'
+PRP Supplier_Part_Number_1 'ESD5B5.0ST1GOSTR-ND'
+PRP Voltage_-_Breakdown '5.8V'
+PRP Voltage_-_Reverse_Standoff_(Typ) '5V'
+TOP 0 1.2563938 3.178 90 N 69 4 D9-1
+TOP 1 1.3056064 3.178 90 N 60 85 D9-2
+#
+# CMP 52
+CMP 21 1.297 3.102 0 N D10 PGB1010603NR ;0=1,1=0.0217
+PRP Category_1 'Circuit Protection'
+PRP ComponentLink1Description 'http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf'
+PRP ComponentLink1URL 'http://www.littelfuse.com/data/en/Data_Sheets/Littelfuse_PulseGuard-ESD_PGB1.pdf'
+PRP Description_1 'SUPPRESSOR ESD 24VDC 0603 SMD'
+PRP Manufacturer 'Littelfuse Inc'
+PRP Manufacturer_Part_Number 'PGB1010603NR'
+PRP Mounting_Type 'Surface Mount'
+PRP OPI_VID '101020'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Polarization 'Bidirectional'
+PRP Power_(Watts) '-'
+PRP Pricing_1 '5000=0.189, 10000=0.176, 25000=0.166 (USD)'
+PRP RoHS_1 'RoHS Compliant'
+PRP Stock_1 '10000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package '0603 (1608 Metric)'
+PRP Supplier_Part_Number_1 'F3591TR-ND'
+PRP Voltage_-_Breakdown '-'
+PRP Voltage_-_Reverse_Standoff_(Typ) '24V'
+TOP 0 1.3334172 3.102 270 N 60 86 D10-1
+TOP 1 1.2605826 3.102 270 N 69 5 D10-2
+#
+# CMP 53
+CMP 31 1.5539977 3.33 0 N D11 BAV99 ;0=1,1=0.0433
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://www.diodes.com/datasheets/ds12007.pdf'
+PRP ComponentLink1URL 'http://www.diodes.com/datasheets/ds12007.pdf'
+PRP Current_-_Average_Rectified_(Io)_(per_Diode) '300mA (DC)'
+PRP Current_-_Reverse_Leakage_@_Vr '2.5µA @ 75V'
+PRP Diode_Configuration '1 Pair Series Connection'
+PRP Diode_Type 'Standard'
+PRP Manufacturer 'Diodes Inc'
+PRP Manufacturer_Part_Number 'BAV99-7-F'
+PRP Mounting_Type 'Surface Mount'
+PRP OPI_VID '101321'
+PRP Package_/_Case 'TO-236-3, SC-59, SOT-23-3'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Pricing_1 '3000=0.02704, 6000=0.02439, 15000=0.02121, 30000=0.01909, 75000=0.01697, 150000=0.0141 (CAD)'
+PRP Reverse_Recovery_Time_(trr) '4ns'
+PRP RoHS 'RoHS Compliant'
+PRP Speed 'Fast Recovery =< 500ns, > 200mA (Io)'
+PRP Stock_1 '297000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOT-23-3'
+PRP Supplier_Part_Number_1 'BAV99-FDITR-ND'
+PRP Voltage_-_DC_Reverse_(Vr)_(Max) '75V'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '1.25V @ 150mA'
+TOP 0 1.5913993 3.286693 180 N 60 87 D11-1
+TOP 1 1.5165961 3.2866931 180 N 53 24 D11-2
+TOP 2 1.5539977 3.3733072 180 N 37 1 D11-3
+#
+# CMP 54
+CMP 31 1.4011944 3.330015 0 N D13 BAV99 ;0=1,1=0.0433
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://www.diodes.com/datasheets/ds12007.pdf'
+PRP ComponentLink1URL 'http://www.diodes.com/datasheets/ds12007.pdf'
+PRP Current_-_Average_Rectified_(Io)_(per_Diode) '300mA (DC)'
+PRP Current_-_Reverse_Leakage_@_Vr '2.5µA @ 75V'
+PRP Diode_Configuration '1 Pair Series Connection'
+PRP Diode_Type 'Standard'
+PRP Manufacturer 'Diodes Inc'
+PRP Manufacturer_Part_Number 'BAV99-7-F'
+PRP Mounting_Type 'Surface Mount'
+PRP OPI_VID '101321'
+PRP Package_/_Case 'TO-236-3, SC-59, SOT-23-3'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Pricing_1 '3000=0.02704, 6000=0.02439, 15000=0.02121, 30000=0.01909, 75000=0.01697, 150000=0.0141 (CAD)'
+PRP Reverse_Recovery_Time_(trr) '4ns'
+PRP RoHS 'RoHS Compliant'
+PRP Speed 'Fast Recovery =< 500ns, > 200mA (Io)'
+PRP Stock_1 '297000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOT-23-3'
+PRP Supplier_Part_Number_1 'BAV99-FDITR-ND'
+PRP Voltage_-_DC_Reverse_(Vr)_(Max) '75V'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '1.25V @ 150mA'
+TOP 0 1.438596 3.286708 180 N 60 88 D13-1
+TOP 1 1.3637928 3.2867081 180 N 53 25 D13-2
+TOP 2 1.4011944 3.3733222 180 N 38 1 D13-3
+#
+# CMP 55
+CMP 1 3.1911944 3.1416619 90 N J1 CONN ;0=2,1=0.0000
+PRP Category 'Connectors, Interconnects'
+PRP Color 'Black'
+PRP ComponentLink1Description 'http://www.molex.com/pdm_docs/sd/436500215_sd.pdf'
+PRP ComponentLink1URL 'http://www.molex.com/pdm_docs/sd/436500215_sd.pdf'
+PRP Connector_Type 'Header, Shrouded'
+PRP Contact_Finish 'Tin'
+PRP Contact_Finish_Thickness '100µin (2.54µm)'
+PRP Contact_Mating_Length '-'
+PRP Contact_Type 'Male Pin'
+PRP Fastening_Type 'Locking Ramp'
+PRP Features 'Board Guide'
+PRP Manufacturer 'Molex Inc'
+PRP Manufacturer_Part_Number '436500216'
+PRP Mounting_Type 'Through Hole'
+PRP Number_of_Positions '2'
+PRP Number_of_Positions_Loaded 'All'
+PRP Number_of_Rows '1'
+PRP OPI_VID '101531'
+PRP Packaging 'Tray'
+PRP Pitch '0.118_ (3.00mm)'
+PRP Pricing_1 '1=0.82, 10=0.766, 50=0.612, 100=0.5866, 250=0.53552, 500=0.51002, 1000=0.42077, 2500=0.38251, 5000=0.36976 (CAD)'
+PRP RoHS 'RoHS Compliant'
+PRP Row_Spacing '-'
+PRP Stock_1 '29740'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'WM1917-ND'
+PRP Termination 'Press-Fit'
+TOP 0 3.1911944 3.1416619 270 N 27 8 J1-1
+TOP 1 3.191155 3.2598115 270 N 60 98 J1-2
+TOP 2 3.268353 3.3778757 270 N 0 12 J1-3
+TOP 3 3.268353 3.023545 270 N 0 11 J1-4
+#
+# CMP 56
+CMP 44 2 2.25 0 N TP6 Testpoint ;0=2,1=0.0000
+TOP 0 1.9191598 2.275 180 N 47 2 TP6-1
+#
+# CMP 57
+CMP 36 1.55 2.1 0 N TP5 Testpoint ;0=2,1=0.0000
+TOP 0 1.55 2.1 180 N 22 4 TP5-1
+#
+# CMP 58
+CMP 45 3.3 3.75 0 N TP4 Testpoint ;0=2,1=0.0000
+TOP 0 3.3 3.7754607 180 N 62 22 TP4-1
+#
+# CMP 59
+CMP 46 2.75 3.15 0 N TP3 Testpoint ;0=2,1=0.0000
+TOP 0 2.75 3.0949021 180 N 25 4 TP3-1
+#
+# CMP 60
+CMP 47 1.2011944 3.303 0 N TP2 Testpoint ;0=2,1=0.0000
+TOP 0 1.2 3.3 180 N 34 3 TP2-1
+#
+# CMP 61
+CMP 36 0.55 3.45 0 N TP1 Testpoint ;0=2,1=0.0000
+TOP 0 0.55 3.45 180 N 35 12 TP1-1
+#
+# CMP 62
+CMP 48 2.75 3.582378 0 N TP11 Testpoint ;0=2,1=0.0000
+TOP 0 2.75 3.6 180 N 29 3 TP11-1
+#

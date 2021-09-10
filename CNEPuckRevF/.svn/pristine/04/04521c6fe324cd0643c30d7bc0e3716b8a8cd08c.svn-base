@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [Variant to Contract Manufacturer] of PCB Document [CNEPuckRevF.PcbDoc]
+   Generated File[Pick Place for CNEPuckRevF(Variant to Contract Manufacturer).txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:11:23 PM On 01/04/2014

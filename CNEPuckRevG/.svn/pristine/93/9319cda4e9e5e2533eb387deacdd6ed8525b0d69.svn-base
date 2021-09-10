@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: CNEPuckRevF.PcbDoc   01/04/2014  3:11:22 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CNEPuckRevF.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11mil (0.2794mm)         Round          159              31.30 Inch (795.14 mm)
+T2        12mil (0.3048mm)         Round          6                4.90 Inch (124.35 mm)
+T3        28mil (0.7112mm)         Round          4                1.66 Inch (42.29 mm)
+T4        30mil (0.762mm)          Round          12               1.68 Inch (42.72 mm)
+T5        35mil (0.889mm)          Round          19               7.24 Inch (183.87 mm)
+T6        38mil (0.9652mm)         Round          16               4.79 Inch (121.74 mm)
+T7        150mil (3.81mm)          Round          3                3.14 Inch (79.69 mm)
+T8        197mil (5.0038mm)        Round          1         NPTH   0.00 Inch (0.00 mm)
+T9        260mil (6.604mm)         Round          1         NPTH   0.00 Inch (0.00 mm)
+T10       315mil (8.001mm)         Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            222              54.72 Inch (1389.80 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

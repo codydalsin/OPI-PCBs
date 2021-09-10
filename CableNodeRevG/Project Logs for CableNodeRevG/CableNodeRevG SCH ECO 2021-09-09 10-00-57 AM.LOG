@@ -1,0 +1,16 @@
+Change Value of Parameter Manufacturer_Name in Part LED1 Old=OSRAM New=
+Change Value of Parameter Manufacturer_Part_Number in Part LED1 Old=GH JTLPS1.24-K5L2-1-1-150-R33 New=
+Change Value of Parameter Manufacturer_Name in Part LED2 Old=OSRAM New=
+Change Value of Parameter Manufacturer_Part_Number in Part LED2 Old=GH JTLPS1.24-K5L2-1-1-150-R33 New=
+Change Value of Parameter Manufacturer_Name in Part LED3 Old=OSRAM New=
+Change Value of Parameter Manufacturer_Part_Number in Part LED3 Old=GH JTLPS1.24-K5L2-1-1-150-R33 New=
+Change Value of Parameter Manufacturer_Name in Part LED4 Old=OSRAM New=
+Change Value of Parameter Manufacturer_Part_Number in Part LED4 Old=GH JTLPS1.24-K5L2-1-1-150-R33 New=
+Added Parameter Manufacturer=OSRAM to Part LED1
+Added Parameter Manufacturer=OSRAM to Part LED2
+Added Parameter Manufacturer=OSRAM to Part LED3
+Added Parameter Manufacturer=OSRAM to Part LED4
+Added Parameter Manufacturer Part Number=GH JTLPS1.24-K5L2-1-1-150-R33 to Part LED1
+Added Parameter Manufacturer Part Number=GH JTLPS1.24-K5L2-1-1-150-R33 to Part LED2
+Added Parameter Manufacturer Part Number=GH JTLPS1.24-K5L2-1-1-150-R33 to Part LED3
+Added Parameter Manufacturer Part Number=GH JTLPS1.24-K5L2-1-1-150-R33 to Part LED4

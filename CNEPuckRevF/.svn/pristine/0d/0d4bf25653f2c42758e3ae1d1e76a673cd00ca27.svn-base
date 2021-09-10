@@ -1,0 +1,42 @@
+Field=Designator~String~Designator~144|Field=Quantity~Integer~Quantity~83|Field=OPI_VID~String~OPI_VID~50|Field=Description~String~Description~237|Field=Manufacturer~String~Manufacturer~159|Field=Manufacturer Part Number~String~Manufacturer Part Number~154|Field=Footprint~String~Footprint~115|Field=Comment~String~Comment~66|Field=Fitted~String~Fitted~63|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CNEPuckRevF.PrjPcb|ReportField=ProjectFullPath~N:\LloydJ\CNEPuckRevF\CNEPuckRevF.PrjPcb|ReportField=Title~BoM_CNE For Variant [Variant to Contract Manufacturer] of Project [CNEPuckRevF.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~156|ReportField=ReportTime~3:12:31 PM|ReportField=ReportDate~01/04/2014|ReportField=ReportDateTime~01/04/2014 3:12:31 PM|ReportField=OutputName~BoM_CNE|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~Variant to Contract Manufacturer|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~JDV|ReportField=CheckedBy~|ReportField=CompanyName~OPIsystems Inc|ReportField=CurrentDate~01/04/2014|ReportField=CurrentTime~3:12:21 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~N:\LloydJ\CNEPuckRevF\CNEPuckCPURevF.SchDoc|ReportField=DocumentName~CNEPuckCPURevF.SchDoc|ReportField=DocumentNumber~CNE|ReportField=DrawnBy~JDV|ReportField=Engineer~JDV|ReportField=ImagePath~|ReportField=ModifiedDate~01/04/2014|ReportField=Organization~OPIsystems Inc|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.70|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=4318|PaperWidth=2794|Scale=100|PaperSource=7|PrintQuality=600|MediaType=1|DitherType=10|PaperKind=11x17|PrintScaleMode=1|ReportField=ProjectName~CNEPuckRevF.PrjPcb|ReportField=Revision~Rev F|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~3|ReportField=Time~|ReportField=Title~Cable Node Expansion Puck|ReportField=DataSourceFileName~CNEPuckRevF.PrjPcb|ReportField=DataSourceFullPath~N:\LloydJ\CNEPuckRevF\CNEPuckRevF.PrjPcb
+C1, C3|2|101353|CAP CER 6.8PF 50V NP0 0603|TDK Corporation|C1608C0G1H6R8D|RC0603|6.8pF|Fitted
+C2, C9, C10|3|101354|CAP CER 4.7UF 10V 10% X5R 0603|TDK Corporation|C1608X5R1A475K/0.50|RC0603|4.7uF|Fitted
+C4, C5|2|101355|CAP CER 20PF 50V 5% NPO 0603|Yageo|CC0603JRNPO9BN200|RC0603|20pF|Fitted
+C6, C7, C8, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C40, C41, C42|24|100039|CAP CERM .1UF 10% 16V X7R 0603|AVX Corporation|0603YC104KAT2A|RC0603|0.1uF|Fitted
+CONN1, CONN2|2|101356|TERM BLOCK PCB 8POS 3.5MM GREEN|Phoenix Contact|1985250|PTSA1.5/8-3.5-Z|PC-1985250|Fitted
+D1, D2, D3, D4, D5, D6, D7, D8|8|101020|SUPPRESSOR ESD 24VDC 0603 SMD|Littelfuse Inc|PGB1010603NR|RC0603|PGB1010603NR|Fitted
+D10, D11, D12, D13, D14, D15, D16, D17|8|101019|TVS BIDIRECT 50W SOD523|ON Semiconductor|ESD5B5.0ST1G|SOD-523|ESD5B5.0ST1G|Fitted
+D26|1|101482|DIODE SCHOTTKY 40V 30MA SOT323|Diodes Inc|SDMG0340LC-7-F|SOT-323|SDMG0340LC|Fitted
+D9, D18, D19, D20, D21, D22, D23, D24, D25|9|101018|DIODE SCHOTTKY 1A 200V PWRDI 123|Diodes Inc|DFLS1200-7|POWERDI-123|DFLS1200-7|Fitted
+P1|1|100210|Header, 4-Pin|3M|2340-6111TG|HDR1X4|Cut to 4 Position|Fitted
+P2|1|100210|Header, 5-Pin|3M|2340-6111TG|HDR1X5|Cut to 5 Position|Fitted
+Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8|8|100638|MOSFET P-CH 20V 2.2A SOT23-3|Vishay/Siliconix|SI2301BDS-T1-E3|SOT23(DGS)|SI2301BDS|Fitted
+R1, R20, R22, R24|4|101044|RES 10K OHM 1/10W 5% 0603 SMD|Panasonic Electronic Components|ERJ-3GEYJ103V|RC0603|10K|Fitted
+R13, R14, R15, R16, R52, R53, R55, R56|8|xxxxx|RES 2.20K OHM 1/10W 1% 0603 SMD|Panasonic - ECG|ERJ-3EKF2201V|RC0603|2K2|Fitted
+R17, R26, R27, R28, R30, R44|6|101042|RES 0.0 OHM 1/10W 0603 SMD|Panasonic - ECG|ERJ-3GEY0R00V|RC0603|0R|Fitted
+R18, R80, R81, R82, R83, R84, R85, R86, R87|9|101245|RES 100K OHM 1/10W 5% 0603 SMD|Panasonic Electronic Components|ERJ-3EKF1003V|RC0603|100K|Fitted
+R19|1|101043|RES 47K OHM 1/10W 5% 0603 SMD|Panasonic - ECG|ERJ-3GEYJ473V|RC0603|47K|Fitted
+R2|1|101380|RES 24 OHM 1W 5% 2512 SMD|Vishay/Dale|CRCW251224R0JNEG|RES2512|24R|Fitted
+R25|1|101175|RES 4.7K OHM 1/10W 5% 0603 SMD|Panasonic - ECG|ERJ-3GEYJ472V|RC0603|4k7|Fitted
+R29|1|101357|RES 390 OHM 1/10W 5% 0603 SMD|Panasonic Electronic Components|ERJ-3GEYJ391V|RC0603|390R|Fitted
+R3, R4, R9, R10, R33, R34, R39, R40|8|101449, 101449, 101449, 101449, xxxxx, xxxxx, xxxxx, xxxxx|RES 51.1 OHM .25W 1% 0603 SMD|Vishay Dale|CRCW060351R1FKEAHP|RC0603|51R1|Fitted
+R5, R6, R11, R12, R35, R36, R41, R42|8|101386|RES 330 OHM 1/8W 5% 0805 SMD|KOA Speer Technologies|RK73B2ATTD331J|RC0805|330R|Fitted
+R51, R54|2|xxxxx|RES 200K OHM 1/10W 5% 0603 SMD|Panasonic Electronic Components|ERJ-3GEYJ204V|RC0603|200K|Fitted
+R7, R8, R21, R31, R32, R37, R38, R43|8|101487|RES 2K OHM 1/10W 1% 0603 SMD|Panasonic Electronic Components|ERJ-3EKF2001V|RC0603|2K0|Fitted
+RA1, RA2, RA3, RA4|4|101389|RES ARRAY 100 OHM 4 RES 0804|Panasonic Electronic Components|EXB-28V101JX|exb28v|100R|Fitted
+S1|1|101359|CONN EDGECARD 6POS .100 VERT|TE Connectivity|7-5530843-6|EdgeConnector-6-12|7-5530843-6|Fitted
+S2|1|10148|CONN RCPT 2MM 8POS DL VERT PCB|Samtec Inc|MMS-104-01-F-DV|hirose-2x4|MMS-104-01-F-DV|Fitted
+U1|1|101348|IC LOAD SWITCH INTEGRATED SC70-6|Fairchild Semiconductor|FDG6342L|TS5A3160|FDG6342L|Fitted
+U13|1|101360|IC MCU 32BIT 64KB FLASH 48LQFP|STMicroelectronics|STM32F051C8T6|LQFP48-7x7mm|STM32F051C8T6|Fitted
+U14|1|101178|IC REG LDO 500MA 3.3V SOT223-4|National Semiconductor|LP38693MP-3.3/NOPB|SOT223|LP38693MP-3.3|Fitted
+U16, U17|2|xxxxx|IC LEVEL TRANSLATOR - TSSOP8|NXP Semiconductors|PCA9306DP|TSOP65P640X120-8N|PCA9306DP|Fitted
+U2|1|10139|IC SRAM SPI 512K 2.5V 8SOIC|Microchip Technology|23LCV512-I/SN|SOIC127P600X265-8N|512Kx8|Fitted
+U3, U4, U9, U10, U18, U19, U24, U25|8|101350|IC BRIDGE I2C TO 1-WIRE 8-SOIC|Maxim Integrated|DS2482S-100+|SOIC127P580X153-8N|DS2482S-100+|Fitted
+U5, U6, U11, U12, U20, U21, U26, U27|8|101351|IC SWITCH SPDT SC88|ON Semiconductor|NLAS4157DFT2G|TS5A3160|NLAS4157D|Fitted
+Y1|1|101361|CRYSTAL 32.768KHZ 12.5PF SMD|Fox Electronics|FX135A-327|FX135|32.768kHz|Fitted
+Y2|1|xxxxx|CRYSTAL 8.000000 MHZ 8PF SMD|NDK|NX8045GB-8.000000MHZ|NX8045GB|8MHz|Fitted
+CANADAFLAG1|0||Canada Flag|||CanadaFlag500x250||Not Fitted
+FD1, FD2, FD3|0||Fiducial Round|||FIDUCIAL ROUND SMALL||Not Fitted
+MH1, MH2, MH3|0||PCB Mounting Hole, 0.150" hole, 0.270" Keepout|||MountingHole||Not Fitted
+P3|0|xxxxx|Header, 2-Pin|||HDR1X2||Not Fitted
+R23|0|101044|RES 10K OHM 1/10W 5% 0603 SMD|Panasonic Electronic Components|ERJ-3GEYJ103V|RC0603||Not Fitted

@@ -1,0 +1,4 @@
+
+Rev G - 2021-09-09-  Updated Gerbers for new part on LED1-4.OVS5MRBCR4 & OVS5MBBCR4 replaced by GHJTLPS1.24-K5L2-1-1-150-R33,GDJTLPS1.14-MFN8-25-1-150-R33
+		Added alternative part to BOM for D1, D4 due to supply shortage of DFLS1200-7
+ 		

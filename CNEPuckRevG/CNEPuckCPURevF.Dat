@@ -1,0 +1,29 @@
+Field=Fitted~String~Fitted~100|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=OPI_VID~String~OPI_VID~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~CNEPuckRevF.PrjPcb|ReportField=ProjectFullPath~C:\Users\lloydj\Desktop\Altium\Cable Node Expander HW Altium\CNEPuckRevF.PrjPcb|ReportField=Title~BoM_Main For Variant [Variant to Contract Manufacturer] of Schematic Document [CNEPuckCPURevF.SchDoc]|ReportField=TotalQuantity~64|ReportField=ReportTime~2:26:16 PM|ReportField=ReportDate~27/03/2014|ReportField=ReportDateTime~27/03/2014 2:26:16 PM|ReportField=OutputName~BoM_Main|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~Variant to Contract Manufacturer|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~JDV|ReportField=CheckedBy~|ReportField=CompanyName~OPIsystems Inc|ReportField=CurrentDate~27/03/2014|ReportField=CurrentTime~2:25:48 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\lloydj\Desktop\Altium\Cable Node Expander HW Altium\CNEPuckCPURevF.SchDoc|ReportField=DocumentName~CNEPuckCPURevF.SchDoc|ReportField=DocumentNumber~CNE|ReportField=DrawnBy~JDV|ReportField=Engineer~JDV|ReportField=ImagePath~|ReportField=ModifiedDate~27/03/2014|ReportField=Organization~OPIsystems Inc|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.70|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=4318|PaperWidth=2794|Scale=100|PaperSource=7|PrintQuality=600|MediaType=1|DitherType=10|PaperKind=11x17|PrintScaleMode=1|ReportField=ProjectName~CNEPuckRevF.PrjPcb|ReportField=Revision~Rev F|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~3|ReportField=Time~|ReportField=Title~Cable Node Expansion Puck|ReportField=DataSourceFileName~CNEPuckCPURevF.SchDoc|ReportField=DataSourceFullPath~C:\Users\lloydj\Desktop\Altium\Cable Node Expander HW Altium\CNEPuckCPURevF.SchDoc
+Fitted|6.8pF|CAP CER 6.8PF 50V NP0 0603|C1, C3|RC0603|C1608C0G1H6R8D|2|101353
+Fitted|4.7uF|CAP CER 4.7UF 10V 10% X5R 0603|C2, C9, C10|RC0603|C1608X5R1A475K/0.50|3|101354
+Fitted|20pF|CAP CER 20PF 50V 5% NPO 0603|C4, C5|RC0603|CC0603JRNPO9BN200|2|101355
+Fitted|0.1uF|CAP CERM .1UF 10% 16V X7R 0603|C6, C7, C8, C11, C28, C40, C41, C42|RC0603|0603YC104KAT2A|8|100039
+Fitted|Canada Flag|Canada Flag|CANADAFLAG1|CanadaFlag500x250|CanadaFlag|1|xxxxx
+Fitted|DFLS1200-7|DIODE SCHOTTKY 1A 200V PWRDI 123|D9|POWERDI-123|DFLS1200-7|1|101018
+Fitted|SDMG0340LC|DIODE SCHOTTKY 40V 30MA SOT323|D26|SOT-323|SDMG0340LC-7-F|1|101482
+Fitted|Fiducial - Round|Fiducial Round|FD1, FD2, FD3|FIDUCIAL ROUND SMALL|Fiducial|3|
+Fitted|MountingHole|PCB Mounting Hole, 0.150" hole, 0.270" Keepout|MH1, MH2, MH3|MountingHole|MountingHole|3|xxxxx
+Fitted|Header 4|Header, 4-Pin|P1|HDR1X4|Header 4|1|100213
+Fitted|Header 5|Header, 5-Pin|P2|HDR1X5|Header 5|1|xxxxx
+Fitted|NNP|Header, 2-Pin|P3|HDR1X2|Header 2|1|xxxxx
+Fitted|2K2|RES 2.20K OHM 1/10W 1% 0603 SMD|R13, R14, R15, R16, R51, R52, R53, R54, R55, R56|RC0603|ERJ-3EKF2201V|10|xxxxx
+Fitted|0R|RES 0.0 OHM 1/10W 0603 SMD|R17, R26, R27, R28, R30, R44|RC0603|ERJ-3GEY0R00V|6|101042
+Fitted|100K|RES 100K OHM 1/10W 5% 0603 SMD|R18|RC0603|ERJ-3GEYJ104V|1|101245
+Fitted|47K|RES 47K OHM 1/10W 5% 0603 SMD|R19|RC0603|ERJ-3GEYJ473V|1|101043
+Fitted|10K|RES 10K OHM 1/10W 5% 0603 SMD|R20, R22, R23, R24|RC0603|ERJ-3GEYJ103V|4|101044
+Fitted|4k7|RES 4.7K OHM 1/10W 5% 0603 SMD|R25|RC0603|ERJ-3GEYJ472V|1|101175
+Fitted|390R|RES 390 OHM 1/10W 5% 0603 SMD|R29|RC0603|ERJ-3GEYJ391V|1|101357
+Fitted|100R|RES ARRAY 100 OHM 4 RES 0804|RA1, RA2, RA3, RA4|exb28v|EXB-28V101JX|4|101389
+Fitted|7-5530843-6|CONN EDGECARD 6POS .100 VERT|S1|EdgeConnector-6-12|7-5530843-6|1|101359
+Fitted|MMS-104-01-T-DV|CONN RCPT 2MM 8POS DL VERT PCB|S2|hirose-2x4|MMS-104-01-T-DV|1|xxxxx
+Fitted|512Kx8|IC SRAM SPI 512K 2.5V 8SOIC|U2|SOIC127P600X265-8N|23LCV512-I/SN|1|xxxxx
+Fitted|STM32F051C8T6|IC MCU 32BIT 64KB FLASH 48LQFP|U13|LQFP48-7x7mm|STM32F051C8T6|1|101360
+Fitted|LP38693MP-3.3|IC REG LDO 500MA 3.3V SOT223-4|U14|SOT223|LP38693MP-3.3/NOPB|1|101178
+Fitted|PCA9306DP|IC LEVEL TRANSLATOR - TSSOP8|U16, U17|TSOP65P640X120-8N|PCA9306DP|2|xxxxx
+Fitted|32.768kHz|CRYSTAL 32.768KHZ 12.5PF SMD|Y1|FX135|FX135A-327|1|101361
+Fitted|8MHz|CRYSTAL 8.000000 MHZ 8PF SMD|Y2|NX8045GB|NX8045GB-8.000000MHZ|1|xxxxx

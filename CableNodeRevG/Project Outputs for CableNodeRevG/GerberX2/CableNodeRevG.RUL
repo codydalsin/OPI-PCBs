@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: C:\Users\CodyD\Documents\GitHub\OPI-PCBs\CableNodeRevG\CableNodeRevG.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance_BATT1|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_SP1|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=Clearance_Polies|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_U2|Scope=Board|Minimum=7.50
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_U10|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_VBAT_POS|Scope=Board|Minimum=20.00
